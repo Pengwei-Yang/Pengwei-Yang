@@ -14,7 +14,8 @@ sections:
       email: pengwei.yang@ieee.org
       phone: 0450718075
       appointment_url: 'https://calendly.com'
-      address: Computer Science Building J12, the University of Sydney
+      address: 
+        street: Computer Science Building J12, the University of Sydney
         city: Sydney
         region: NSW
         postcode: '2006'
