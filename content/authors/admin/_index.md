@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Pengwei Yang (杨朋卫)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Master Student at SCSLab (USYD)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Sensors, Clouds, and Services Lab
+  url: "http://scslab.net/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Pengwei Yang is a Master's student in the School of Computer Science at the University of Sydney. He is currently doing research projects in the Sensors, Clouds, and Services Lab at the University of Sydney. His research interests include Crowdsourcing, Service-oriented Computing, Deep Learning, and Trustworthy Machine Learning.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -23,16 +23,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:pengwei.yang@ieee.org'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/pengwei_yang_
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=GLs5fDsAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Pengwei-Yang
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
