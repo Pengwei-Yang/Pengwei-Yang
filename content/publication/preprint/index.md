@@ -27,13 +27,7 @@ summary: This is an accepted paper by PerCom 2023.
 tags:
 - Source Themes
 title: Monitoring Efficiency of IoT Wireless Charging
-url_code: '#'
-url_dataset: '#'
 url_pdf: https://arxiv.org/abs/2303.05629
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+
 ---
 
