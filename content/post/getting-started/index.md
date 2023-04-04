@@ -30,7 +30,6 @@ image:
 
 authors:
 - admin
-- Pengwei Yang
 
 tags:
 - Academic
