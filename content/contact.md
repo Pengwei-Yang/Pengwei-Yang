@@ -9,7 +9,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Dear visitors, please contact me via the following address.
+        Dear visitors, please contact me via the following ways.
       # Contact (add or remove contact options as necessary)
       email: pengwei.yang@ieee.org
       phone: 0450718075
