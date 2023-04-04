@@ -1,8 +1,11 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Crowdsourcing wireless energy is a novel and convenient solution to charge nearby IoT devices. Several applications have been proposed to enable peer-to-peer wireless energy charging. However, none of them considered the energy efficiency of the wireless transfer of energy. In this paper, we propose an energy estimation framework that predicts the actual received energy. Our framework uses two machine learning algorithms, namely XGBoost and Neural Network, to estimate the received energy. The result shows that the Neural Network model is better than XGBoost at predicting the received energy. We train and evaluate our models by collecting a real wireless energy dataset.
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Amani Abusafia
+- Abdallah Lakhdari
+- Athman Bouguettaya
+date: "2023-02-07T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -10,23 +13,23 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
+- name: The 21st International Conference on Pervasive Computing and Communications
+  url: https://arxiv.org/abs/2303.05629
 projects:
-- internal-project
+- external-project
 publication: ""
 publication_short: ""
 publication_types:
 - "3"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This is an accepted paper by PerCom 2023.
 tags:
 - Source Themes
-title: An example preprint / working paper
+title: Monitoring Efficiency of IoT Wireless Charging
 url_code: '#'
 url_dataset: '#'
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/abs/2303.05629
 url_poster: '#'
 url_project: ""
 url_slides: ""
@@ -34,8 +37,3 @@ url_source: '#'
 url_video: '#'
 ---
 
-{{% callout note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
