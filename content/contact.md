@@ -21,7 +21,7 @@ sections:
         postcode: '2006'
         country: Australia
         country_code: AU
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: SCSLab on Floor 4
       office_hours:
         - 'Saturday 10:00 to 13:00'
         - 'Sunday 09:00 to 10:00'
