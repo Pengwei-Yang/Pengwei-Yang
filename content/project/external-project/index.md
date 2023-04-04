@@ -6,7 +6,7 @@ tags:
 date: "2023-04-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-Project_link: [http://example.org](https://www.researchgate.net/profile/Pengwei-Yang/research)
+Project_link: (https://www.researchgate.net/profile/Pengwei-Yang/research)
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
