@@ -1,20 +1,20 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.
+abstract: Well Done to Sarah Bradley for presenting our papers in The 21st International Conference on Pervasive Computing and Communications (PerCom 2023)
 address:
-  city: Stanford
+  city: Atlanta
   country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  postcode: "30303"
+  region: GA
+  street: 55 Gilmer St.
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Wowchemy Conference
-event_url: https://example.org
+date: "2023-03-11T13:00:00Z"
+date_end: "2023-03-16T15:00:00Z"
+event: The 21st International Conference on Pervasive Computing and Communications
+event_url: https://www.percom.org/
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**](http://scslab.net/)'
   focal_point: Right
 location: Wowchemy HQ
 math: true
@@ -28,15 +28,3 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchmey's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
