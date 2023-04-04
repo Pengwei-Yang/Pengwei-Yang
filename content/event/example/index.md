@@ -18,11 +18,11 @@ image:
   focal_point: Right
 location: Wowchemy HQ
 math: true
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-01-01T00:00:00Z"
 slides: example
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Sarah Bradley has presented our papers in The 21st International Conference on Pervasive Computing and Communications (PerCom 2023)
 tags: []
-title: Example Talk
+title: Presentation in The 21st International Conference on Pervasive Computing and Communications (PerCom 2023)
 url_code: ""
 url_pdf: ""
 url_slides: ""
