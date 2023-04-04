@@ -9,22 +9,22 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Dear visitors, please contact me via the following address.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: pengwei.yang@ieee.org
+      phone: +61 0450718075
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        Computer Science Building J12, University of Sydney
+        city: Sydney
+        region: NSW
+        postcode: '2006'
+        country: Australia
+        country_code: AU
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Saturday 10:00 to 13:00'
+        - 'Sunday 09:00 to 10:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
