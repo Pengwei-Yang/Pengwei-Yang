@@ -10,6 +10,7 @@ projects: []
 date: "2023-02-01T00:00:00Z"
 lastMod: "2023-04-01T00:00:00Z"
 image:
+  placement: 2
   caption: ""
   focal_point: ""
 ---
