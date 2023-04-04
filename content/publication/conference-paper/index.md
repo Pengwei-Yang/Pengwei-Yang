@@ -6,7 +6,7 @@ authors:
 - Abdallah Lakhdari
 - Athman Bouguettaya
 date: "2023-03-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1007/978-3-031-26507-5_38"
 featured: true
 image:
   caption: 'Image credit: [**ICSOC**](https://icsoc2022.spilab.es/)'
