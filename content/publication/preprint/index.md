@@ -9,7 +9,7 @@ date: "2023-02-07T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**SCSLab**](http://scslab.net/)'
   focal_point: ""
   preview_only: false
 links:
