@@ -17,10 +17,6 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/pengwei_yang_
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
