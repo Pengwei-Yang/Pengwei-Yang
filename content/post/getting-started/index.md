@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**20th ICSOC Workshop**](https://link.springer.com/book/10.1007/978-3-031-26507-5)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -38,7 +38,7 @@ tags:
 
 categories:
 - Demo
-- Pengwei YAng
+- Pengwei Yang
 ---
 
 ## Book Overview
