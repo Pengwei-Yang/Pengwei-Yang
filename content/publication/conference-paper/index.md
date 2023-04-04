@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: International Conference on Service-Oriented Computing
+- name: The 20th International Conference on Service-Oriented Computing
   url: https://icsoc2022.spilab.es/
 projects:
 - external-project
@@ -27,12 +27,6 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - Source Themes
 title: Towards peer-to-peer sharing of wireless energy services
-url_code: '#'
-url_dataset: '#'
 url_pdf: https://doi.org/10.1007/978-3-031-26507-5_38
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+
 ---
