@@ -3,7 +3,7 @@ abstract: Crowdsourcing wireless energy services is a novel convenient alternati
 authors:
 - admin
 
-date: "2013-07-01T00:00:00Z"
+date: "2023-03-01T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -14,7 +14,7 @@ links:
 - name: International Conference on Service-Oriented Computing
   url: https://icsoc2022.spilab.es/
 projects:
-- internal-project
+- external-project
 publication: In *The 20th International Conference on Service-Oriented Computing (ICSOC)*
 publication_short: In *Springer Nature*
 publication_types:
