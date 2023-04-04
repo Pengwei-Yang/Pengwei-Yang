@@ -1,6 +1,6 @@
 ---
 title: Trustworthy Machine Learning Research Project
-summary: An example of using the in-built project page.
+summary: Establishment of Neural Networks Robust to Label Noise
 tags:
 - Deep Learning
 date: "2023-04-01T00:00:00Z"
