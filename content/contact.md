@@ -12,9 +12,9 @@ sections:
         Dear visitors, please contact me via the following address.
       # Contact (add or remove contact options as necessary)
       email: pengwei.yang@ieee.org
-      phone: +61 0450718075
+      phone: 0450718075
       appointment_url: 'https://calendly.com'
-      address: Computer Science Building J12
+      address: Computer Science Building J12, the University of Sydney
         city: Sydney
         region: NSW
         postcode: '2006'
