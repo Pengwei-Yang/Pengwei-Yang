@@ -16,7 +16,7 @@ featured: false
 image:
   caption: 'Image credit: [**Unsplash**](http://scslab.net/)'
   focal_point: Right
-location: Wowchemy HQ
+location: Georgia State University
 math: true
 publishDate: "2023-01-01T00:00:00Z"
 slides: example
