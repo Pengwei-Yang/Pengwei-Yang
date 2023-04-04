@@ -113,8 +113,3 @@ Pablo Fernández
 
 Antonio Ruiz-Cortés
 
-## License
-
-Copyright 2023-present [Pengwei Yang](https://pengweiyang.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
