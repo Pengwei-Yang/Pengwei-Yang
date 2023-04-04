@@ -14,7 +14,7 @@ event: The 21st International Conference on Pervasive Computing and Communicatio
 event_url: https://www.percom.org/
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](http://scslab.net/)'
+  caption: 'Image credit: [**SCSLab**](http://scslab.net/)'
   focal_point: Right
 location: Georgia State University
 math: true
