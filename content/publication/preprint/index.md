@@ -14,7 +14,7 @@ image:
   preview_only: false
 links:
 - name: The 21st International Conference on Pervasive Computing and Communications
-  url: https://arxiv.org/abs/2303.05629
+  url: https://www.percom.org/
 projects:
 - external-project
 publication: ""
