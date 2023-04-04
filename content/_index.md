@@ -33,7 +33,7 @@ sections:
       columns: '1'
   - block: collection
     content:
-      title: Recent News
+      title: Top News
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
