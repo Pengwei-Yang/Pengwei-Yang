@@ -26,12 +26,6 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - Source Themes
 title: Establishment of Neural Networks Robust to Label Noise
-url_code: ""
-url_dataset: ""
 url_pdf: https://arxiv.org/abs/2211.15279
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+
 ---
