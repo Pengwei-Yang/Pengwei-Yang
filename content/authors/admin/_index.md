@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pengwei Yang (杨朋卫)
+title: Pengwei Yang
 
 # Is this the primary user of the site?
 superuser: true
