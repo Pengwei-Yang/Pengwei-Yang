@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Pengwei Yang (杨朋卫)
+title: 杨朋卫
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Research Master Student at SCSLab (USYD)
+role: 悉尼大学 传感、云计算与服务实验室硕士研究生
 
 # Organizations/Affiliations
 organizations:
-- name: Sensors, Clouds, and Services Lab
+- name: 传感、云计算与服务实验室硕士研究生
   url: "http://scslab.net/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Pengwei Yang is a Master's student in the School of Computer Science at the University of Sydney. He is currently doing research projects in the Sensors, Clouds, and Services Lab at the University of Sydney. His research interests include Crowdsourcing, Service-oriented Computing, Deep Learning, and Trustworthy Machine Learning.
+bio: 杨朋卫（Pengwei Yang）是悉尼大学计算机科学学院的硕士研究生。他目前在悉尼大学的传感器、云计算和服务实验室从事物联网云计算项目研究。他的研究兴趣包括众包、面向服务计算、深度学习与可信赖机器学习。
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
