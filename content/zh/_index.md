@@ -39,7 +39,7 @@ sections:
       columns: '1'
   - block: collection
     content:
-      title: Top News
+      title: 新闻头条
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
