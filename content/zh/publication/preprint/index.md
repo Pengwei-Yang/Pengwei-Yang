@@ -1,5 +1,5 @@
 ---
-abstract: Crowdsourcing wireless energy is a novel and convenient solution to charge nearby IoT devices. Several applications have been proposed to enable peer-to-peer wireless energy charging. However, none of them considered the energy efficiency of the wireless transfer of energy. In this paper, we propose an energy estimation framework that predicts the actual received energy. Our framework uses two machine learning algorithms, namely XGBoost and Neural Network, to estimate the received energy. The result shows that the Neural Network model is better than XGBoost at predicting the received energy. We train and evaluate our models by collecting a real wireless energy dataset.
+abstract: 众包无线能源是为附近的物联网设备充电的一种新颖而方便的解决方案。已经提出了几个应用来实现点对点的无线能源充电。然而，他们都没有考虑无线传输能量的能源效率。在本文中，我们提出了一个能量估计框架，预测实际接收的能量。我们的框架使用两种机器学习算法，即XGBoost和神经网络，来估计接收能量。结果显示，神经网络模型在预测接收能量方面比XGBoost更好。我们通过收集一个真实的无线能源数据集来训练和评估我们的模型。
 authors:
 - admin
 - Amani Abusafia
@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: The 21st International Conference on Pervasive Computing and Communications
+- name: 第21届国际普适计算与通信会议
   url: https://www.percom.org/
 projects:
 - external-project
@@ -23,7 +23,7 @@ publication_types:
 - "3"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: This is an accepted paper by PerCom 2023.
+summary: 这是一篇被PerCom 2023接受的会议论文。
 tags:
 - Source Themes
 title: Monitoring Efficiency of IoT Wireless Charging
