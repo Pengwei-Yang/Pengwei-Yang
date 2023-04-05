@@ -1,6 +1,6 @@
 ---
-title: Service-oriented Computing Research Project
-summary: Energy Loss Estimation in IoT Services
+title: 面向服务计算研究项目
+summary: 物联网服务中的能量损失预测
 tags:
 - Demo
 date: "2023-04-01T00:00:00Z"
