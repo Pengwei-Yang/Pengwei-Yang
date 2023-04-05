@@ -35,6 +35,10 @@ sections:
 
         **Advisor Bio:** Athman Bouguettaya is a distinguished academic in the field of computer science. He is Professor and former Head of School of Computer Science at The University of Sydney, NSW, Australia. He was previously Professor and Head of School of Computer Science and Information Technology at RMIT University, Melbourne, Australia and Science Leader in Service Computing at CSIRO ICT Centre, Canberra. Australia. His impressive accomplishments as a scholar and researcher have garnered him various prestigious awards and designations, such as IEEE Fellow, ACM Distinguished Scientist, IEEE Computer Society Distinguished Visitor, ACM Distinguished Speaker, and WISE Fellow.      
         
+        **   ** 
+        
+        **   ** 
+        
 
     design:
       columns: '1'
