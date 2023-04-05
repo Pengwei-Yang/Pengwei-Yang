@@ -1,8 +1,8 @@
 ---
-commentable: true
 title: Contact
 type: landing
 date: 2022-10-25
+commentable: true
 
 sections:
   - block: contact
