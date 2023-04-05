@@ -1,7 +1,7 @@
 ---
-title: Congrats to Pengwei Yang's accepted conference paper by ICSOC 2022!
-subtitle: Pengwei Yang's conference paper got accepted by The 20th International Conference on Service-Oriented Computing (ICSOC 2022)
-summary: Conference paper "Towards Peer-to-peer Sharing of Wireless Energy Services" got accepted by The 20th International Conference on Service-Oriented Computing (ICSOC 2022)
+title: 祝贺杨朋卫的会议论文被ICSOC 2022接收!
+subtitle: 杨朋卫的会议论文被第20届面向服务计算国际会议（ICSOC 2022）接受。
+summary: 会议论文《实现无线能源服务的点对点共享》被第20届面向服务的计算国际会议（ICSOC 2022）接受。
 authors:
 - admin
 date: 2022-11-01
