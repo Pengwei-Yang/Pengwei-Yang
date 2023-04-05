@@ -26,7 +26,7 @@ social:
   link: 'mailto:pengwei.yang@ieee.org'  # For a direct email link, use "mailto:test@example.org".
 - icon: instagram
   icon_pack: fab
-  link: https://twitter.com/pengwei_yang_
+  link: https://www.instagram.com/chris_yang____/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=GLs5fDsAAAAJ
