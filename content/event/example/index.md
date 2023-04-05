@@ -1,4 +1,5 @@
 ---
+commentable: true
 abstract: Well Done to Sarah Bradley for presenting our papers in The 21st International Conference on Pervasive Computing and Communications (PerCom 2023)
 address:
   city: Atlanta
