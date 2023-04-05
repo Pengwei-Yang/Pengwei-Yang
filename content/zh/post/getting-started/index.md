@@ -1,4 +1,5 @@
 ---
+commentable: true
 title: 杨朋卫的会议论文现已在Springer Nature上发表
 subtitle: 第20届面向服务计算国际会议的会议记录。
 
