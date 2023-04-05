@@ -10,7 +10,7 @@ role: 悉尼大学 传感、云计算与服务实验室硕士研究生
 
 # Organizations/Affiliations
 organizations:
-- name: 传感、云计算与服务实验室硕士研究生
+- name: 传感、云计算与服务实验室
   url: "http://scslab.net/"
 
 # Short bio (displayed in user profile at end of posts)
