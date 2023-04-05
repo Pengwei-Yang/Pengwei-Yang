@@ -24,9 +24,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: 'https://www.linkedin.com/in/pengwei-yang/'  # For a direct email link, use "mailto:test@example.org".
-- icon: instagram
+- icon: tiktok
   icon_pack: fab
-  link: https://www.instagram.com/chris_yang____/
+  link: https://www.douyin.com/user/MS4wLjABAAAAmSHN6XEsk9mVLhBbU8WXSfrI3H-SfGLbOmAs05wDqSQ
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=GLs5fDsAAAAJ
