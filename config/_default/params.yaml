@@ -87,7 +87,7 @@ features:
       category: 'General'
       category_id: 'DIC_kwDOJSVoLs4CVjSe'
   search:
-    provider: 'wowchemy'
+    provider: ''
     algolia:
       app_id: ''
       api_key: ''
