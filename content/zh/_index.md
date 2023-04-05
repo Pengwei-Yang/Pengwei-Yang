@@ -42,7 +42,7 @@ sections:
       columns: '1'
   - block: collection
     content:
-      title: 新闻头条
+      title: 头条新闻
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
