@@ -1,4 +1,5 @@
 ---
+commentable: true
 abstract: 感谢Sarah Bradley在第21届国际普适计算与通信会议（PerCom 2023）上展示我们的最新研究成果！
 address:
   city: 亚特兰大
