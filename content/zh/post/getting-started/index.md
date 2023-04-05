@@ -1,9 +1,9 @@
 ---
-title: Pengwei Yang's Conference Paper has now been published on Springer Nature.
-subtitle: Conference Proceeding on 20th International Conference on Service-Oriented Computing.
+title: 杨朋卫的会议论文现已在Springer Nature上发表。
+subtitle: 第20届面向服务计算国际会议的会议记录。
 
 # Summary for listings and search engines
-summary: Pengwei Yang's Conference Paper "Towards peer-to-peer sharing of wireless energy services" has now been published on Springer Nature.
+summary: 杨朋卫的会议论文 "Towards peer-to-peer sharing of wireless energy services "现已在Springer Nature上发表。
 
 # Link this post with a project
 projects: []
@@ -40,75 +40,75 @@ categories:
 - Pengwei Yang
 ---
 
-## Book Overview
+## 书籍概述
 
-This volume constitutes the revised selected papers from 4 workshops: 
+本卷包含了4个研讨会的修订后的精选论文： 
 
-Workshop on Adaptive Service-oriented and Cloud Applications (ASOCA 2022), 3rd International Workshop on AI-enabled Process Automation (AI-PA 2022),  3rd International Workshop on Architectures for Future Mobile Computing and Internet of Things (FMCIoT 2022), and 18th International Workshop on Engineering Service-Oriented Applications and Cloud Services (WESOACS 2022) held in conjunction with the 20th International Conference on Service-Oriented Computing, ICSOC 2022. The conference was held in Sevilla, Spain, in November/December 2022.
+本卷包括4个研讨会的修订版论文：面向服务的自适应和云计算应用研讨会（ASOCA 2022）、第三届人工智能流程自动化国际研讨会（AI-PA 2022）、第三届未来移动计算和物联网架构国际研讨会（FMCIoT 2022），以及第十八届面向服务的应用和云服务工程国际研讨会（WESOACS 2022），与第二十届面向服务的计算国际会议ICSOC 2022同期举行。该会议于2022年11/12月在西班牙塞维利亚举行。
 
-## Abstract
+## 摘要
 
-Crowdsourcing wireless energy services is a novel convenient alternative to charge IoT devices. We demonstrate peer-to-peer wireless energy services sharing between smartphones over a distance. Our demo leverages (1) a service-based technique to share energy services, (2) state-of-the-art power transfer technology over a distance, and (3) a mobile application to enable communication between energy providers and consumers. In addition, our application monitors the charging process between IoT devices to collect a dataset for further analysis. Moreover, in this demo, we compare the peer-to-peer energy transfer between two smartphones using different charging technologies, i.e., cable charging, reverse charging, and wireless charging over a distance. A set of preliminary experiments have been conducted on a real collected dataset to analyze and demonstrate the behavior of the current wireless and traditional charging technologies.
+众包无线能源服务是为物联网设备充电的一种新的便捷选择。我们展示了智能手机之间远距离的点对点无线能源服务共享。我们的演示利用了（1）基于服务的技术来分享能源服务，（2）最先进的远距离电力传输技术，以及（3）一个移动应用程序来实现能源供应商和消费者之间的沟通。此外，我们的应用程序监测物联网设备之间的充电过程，以收集数据集进行进一步分析。在这个演示中，我们比较了两个智能手机之间使用不同充电技术的点对点能量传输，即电缆充电、反向充电和远距离无线充电。我们在真实收集的数据集上进行了一组初步实验，以分析和展示当前无线和传统充电技术的行为。
 
-### Authors and Affiliations
+### 作者及所属机构
 
-**The University of Sydney, Sydney, NSW, 2000, Australia**
+**澳大利亚，新南威尔士，悉尼，悉尼大学**
 
 Pengwei Yang, Amani Abusafia, Abdallah Lakhdari & Athman Bouguettaya
 
-## Acknowledgment
+## 鸣谢
 
-This research was partly made possible by LE220100078 and LE180100158 grants from the Australian Research Council. The statements made herein are solely the responsibility of the authors.
+本研究部分由澳大利亚研究委员会的LE220100078和LE180100158资助完成。本文最终解释权归论文作者所有。
 
-## Cite this paper
+## 引用这篇论文
 
 Yang, P., Abusafia, A., Lakhdari, A., Bouguettaya, A. (2023). Towards Peer-to-Peer Sharing of Wireless Energy Services. In: , et al. Service-Oriented Computing – ICSOC 2022 Workshops. ICSOC 2022. Lecture Notes in Computer Science, vol 13821. Springer, Cham. https://doi.org/10.1007/978-3-031-26507-5_38
 
-## Links
+## 链接
 
-- ⬆️ [**Link to the book**](https://link.springer.com/book/10.1007/978-3-031-26507-5)
-- 📚 [**Link to the paper**](https://doi.org/10.1007/978-3-031-26507-5_38)
-- 💡 [**Link to SCSLab official website**](http://scslab.net/)
+- ⬆️ [**电子书链接**](https://link.springer.com/book/10.1007/978-3-031-26507-5)
+- 📚 [**本文链接**](https://doi.org/10.1007/978-3-031-26507-5_38)
+- 💡 [**传感、云计算与服务实验室官方网站链接**](http://scslab.net/)
 
-## Editors and Affiliations
+## 编辑及其附属机构
 
-**University of Malaga, Málaga, Spain**
+**University of Malaga, 马拉加，西班牙**
 
 Javier Troya
 
-**Politecnico di Milano, Milano, Italy**
+**Politecnico di Milano, 米兰, 意大利**
 
 Raffaela Mirandola
 
-**University of Castilla-La Mancha, Albacete, Spain**
+**University of Castilla-La Mancha, 阿尔巴塞特, 西班牙**
 
 Elena Navarro
 
-**University of the Republic, Montevideo, Uruguay**
+**University of the Republic, 蒙得维的亚, 乌拉圭**
 
 Andrea Delgado
 
-**University of Seville, Sevilla, Spain**
+**University of Seville, 塞维利亚, 西班牙**
 
 Sergio Segura
 
-**University of Cádiz, Cádiz, Spain**
+**University of Cádiz, 加的斯, 西班牙**
 
 Guadalupe Ortiz
 
-**Faculty of Informatics, Universita della Svizzera Italiana, Lugano, Switzerland**
+**Faculty of Informatics, Universita della Svizzera Italiana, 卢加诺, 瑞士**
 
 Cesare Pautasso
 
-**Karlsuhe Institute of Technology, Karlsruhe, Germany**
+**Karlsuhe Institute of Technology, 卡尔斯鲁厄, 德国**
 
 Christian Zirpins
 
-**University of Seville, Seville, Spain**
+**University of Seville, 塞维利亚, 西班牙**
 
 Pablo Fernández
 
-**ISA, Universidad de Sevilla, Sevilla, Spain**
+**ISA, Universidad de Sevilla, 塞维利亚, 西班牙**
 
 Antonio Ruiz-Cortés
 
