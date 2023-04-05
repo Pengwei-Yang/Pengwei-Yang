@@ -9,7 +9,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Dear visitors, please contact me via the following ways.
+        您可以通过以下方式联系我：
       # Contact (add or remove contact options as necessary)
       email: pengwei.yang@ieee.org
       phone: +61 450718075
@@ -21,7 +21,7 @@ sections:
         postcode: '2006'
         country: Australia
         country_code: AU
-      directions: SCSLab on Floor 4
+      directions: SCSLab at Floor 4
       office_hours:
         - 'Saturday 10:00 to 13:00'
         - 'Sunday 09:00 to 10:00'
