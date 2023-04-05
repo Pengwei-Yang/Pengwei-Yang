@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: The 20th International Conference on Service-Oriented Computing
+- name: 第20届面向服务计算国际会议
   url: https://icsoc2022.spilab.es/
 projects:
 - external-project
