@@ -82,10 +82,10 @@ features:
     commento:
       url: ''
     giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+      repo: 'Pengwei-Yang/Pengwei-Yang'
+      repo_id: 'R_kgDOJSVoLg'
+      category: 'General'
+      category_id: 'DIC_kwDOJSVoLs4CVjSe'
   search:
     provider: 'wowchemy'
     algolia:
