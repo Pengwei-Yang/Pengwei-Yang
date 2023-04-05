@@ -75,7 +75,7 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: 'giscus'
     disqus:
       shortname: ''
       show_count: true
@@ -86,6 +86,9 @@ features:
       repo_id: 'R_kgDOJSVoLg'
       category: 'General'
       category_id: 'DIC_kwDOJSVoLs4CVjSe'
+      theme: preferred_color_scheme
+      language_code: en
+      mapping: pathname
   search:
     provider: ''
     algolia:
