@@ -24,7 +24,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:pengwei.yang@ieee.org'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: instagram
   icon_pack: fab
   link: https://twitter.com/pengwei_yang_
 - icon: google-scholar
