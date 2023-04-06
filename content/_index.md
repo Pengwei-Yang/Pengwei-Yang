@@ -42,6 +42,15 @@ sections:
 
     design:
       columns: '1'
+      
+  - block: logos
+    content:
+      title: Sponsor
+      subtitle: 
+      # Path to the logo images within the `assets/media/` folder
+      logo_folder: logos
+    design:
+      columns: '1'  
   - block: collection
     content:
       title: Top News
@@ -68,12 +77,5 @@ sections:
       # Choose a layout view
       view: compact
       columns: '1'
-  - block: logos
-    content:
-      title: Sponsor
-      subtitle: 
-      # Path to the logo images within the `assets/media/` folder
-      logo_folder: logos
-    design:
-      columns: '1'  
+
 ---
