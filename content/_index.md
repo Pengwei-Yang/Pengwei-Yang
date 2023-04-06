@@ -5,14 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: logos
-    content:
-      title: Sponsor
-      subtitle: Sponsor
-      # Path to the logo images within the `assets/media/` folder
-      logo_folder: logos
-    design:
-      columns: '1'  
   - block: about.avatar
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
