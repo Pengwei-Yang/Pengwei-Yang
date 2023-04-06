@@ -15,16 +15,16 @@ sections:
       phone: +61 450718075
       appointment_url: 'https://calendly.com'
       address: 
-        street: Computer Science Building J12, the University of Sydney
-        city: Sydney
-        region: NSW
+        street: 悉尼大学 计算机科学楼 J12
+        city: 悉尼
+        region: 新南威尔士
         postcode: '2006'
-        country: Australia
+        country: 澳大利亚
         country_code: AU
-      directions: SCSLab at Floor 4
+      directions: 4楼 传感、云计算与服务实验室
       office_hours:
-        - 'Saturday 10:00 to 13:00'
-        - 'Sunday 09:00 to 10:00'
+        - '星期六 10:00 to 13:00'
+        - '星期天 09:00 to 10:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
