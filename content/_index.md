@@ -68,7 +68,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '1'
-   - block: logos
+  - block: logos
     content:
       title: Sponsor
       subtitle: 
