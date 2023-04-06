@@ -8,7 +8,7 @@ sections:
   - block: logos
     content:
       title: Sponsor
-      subtitle: 
+      subtitle: Sponsor
       # Path to the logo images within the `assets/media/` folder
       logo_folder: logos
     design:
