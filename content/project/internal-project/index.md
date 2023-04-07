@@ -12,11 +12,6 @@ image:
   caption: Photo by Pengwei Yang
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/pengwei_yang_
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
