@@ -21,12 +21,12 @@ bio: 杨朋卫（Pengwei Yang）是悉尼大学计算机科学学院的硕士研
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: linkedin
-  icon_pack: fab
-  link: 'https://www.linkedin.com/in/pengwei-yang/'  # For a direct email link, use "mailto:test@example.org".
-- icon: tiktok
-  icon_pack: fab
-  link: https://www.douyin.com/user/MS4wLjABAAAAmSHN6XEsk9mVLhBbU8WXSfrI3H-SfGLbOmAs05wDqSQ
+- icon: orcid
+  icon_pack: ai
+  link: 'https://orcid.org/0000-0001-7961-2381'  # For a direct email link, use "mailto:test@example.org".
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Pengwei-Yang
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=GLs5fDsAAAAJ
