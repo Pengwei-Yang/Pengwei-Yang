@@ -27,5 +27,5 @@ title: 最新研究成果在第21届国际普适计算与通信会议上成功�
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/8cYG6jscivE"
 ---
