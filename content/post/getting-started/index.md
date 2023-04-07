@@ -36,10 +36,6 @@ tags:
 - Academic
 - Pengwei Yang
 
-categories:
-- Demo
-- Pengwei Yang
----
 
 ## Book Overview
 
