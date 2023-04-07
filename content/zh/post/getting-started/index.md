@@ -36,9 +36,7 @@ tags:
 - Academic
 - Pengwei Yang
 
-categories:
-- Demo
-- Pengwei Yang
+categories: []
 ---
 
 ## 书籍概述
