@@ -11,4 +11,11 @@ Project_link: (https://www.researchgate.net/profile/Pengwei-Yang/research)
 image:
   caption: Photo by Pengwei Yang
   focal_point: Smart
+  
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
 ---
