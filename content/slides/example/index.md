@@ -18,15 +18,10 @@ slides:
 
 ---
 ## Energy Harvesting
-Problem formulation
+Problem formulation (Easeformer Core)
 
 $$
-\begin{aligned}
-head_i = \mathbf{Softmax}\left(\frac{(h^t)^T\overline{W}^Q_i(h^t)^TW^{K^T}_i}{\sqrt{d}}\right)(h^t)^TW^V_i \\
-\mu_{\mathcal{B}} \leftarrow \frac{1}{m} \sum^{m}_{i} x_{i} \\
-\sigma^{2}_{\mathcal{B}} \leftarrow \frac{1}{m} \sum^{m}_{i}(x_{i}-\mu_{\mathcal{B}})^{2}\\
-\hat{x}_{i} \leftarrow \frac{x_{i}-\mu_{\mathcal{B}}}{\sqrt{\sigma^{2}_{\mathcal{B}}+\epsilon}}\\
-\end{aligned}
+head_i = \mathbf{Softmax}\left(\frac{(h^t)^T\overline{W}^Q_i(h^t)^TW^{K^T}_i}{\sqrt{d}}\right)(h^t)^TW^V_i 
 $$
 
 ---
