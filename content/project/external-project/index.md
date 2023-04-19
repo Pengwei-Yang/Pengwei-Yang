@@ -84,7 +84,8 @@ services. In CIC, pages 18–24. IEEE, 2020.
 [6] Abdallah Lakhdari and Athman Bouguettaya. Fluid composition of intermittent iot energy
 services. In 2020 IEEE International Conference on Services Computing (SCC), pages 329–
 336. IEEE, 2020.
-337. 
+
+
 [7] Abdallah Lakhdari and Athman Bouguettaya. Fairness-aware crowdsourcing of iot energy
 services. In ICSOC, pages 351–367. Springer, 2021.
 
