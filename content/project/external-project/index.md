@@ -61,61 +61,61 @@ To sum up, our contributions can be seen as follows:
 
 ### Reference
 
-[1] Amani Abusafia and Athman Bouguettaya. Reliability model for incentive-driven iot energy
+[1] *Amani Abusafia and Athman Bouguettaya. Reliability model for incentive-driven iot energy
 services. In MobiQuitous 2020-17th EAI International Conference on Mobile and Ubiquitous
-Systems: Computing, Networking and Services, pages 196–205, 2020.
+Systems: Computing, Networking and Services, pages 196–205, 2020.*
 
-[2] Amani Abusafia, Athman Bouguettaya, and Sajib Mistry. Incentive-based selection and com-
+[2] *Amani Abusafia, Athman Bouguettaya, and Sajib Mistry. Incentive-based selection and com-
 position of iot energy services. In 2020 IEEE International Conference on Services Computing
-(SCC), pages 304–311, 2020.
+(SCC), pages 304–311, 2020.*
 
-[3] Raja Wasim Ahmad, Abdullah Gani, Siti Hafizah Ab. Hamid, Feng Xia, and Muhammad
+[3] *Raja Wasim Ahmad, Abdullah Gani, Siti Hafizah Ab. Hamid, Feng Xia, and Muhammad
 Shiraz. A review on mobile application energy profiling: Taxonomy, state-of-the-art, and
-open research issues. Journal of Network and Computer Applications, 58:42–59, 2015.
+open research issues. Journal of Network and Computer Applications, 58:42–59, 2015.*
 
-[4] Hossein Falaki, Ratul Mahajan, Srikanth Kandula, Dimitrios Lymberopoulos, Ramesh Govin-
+[4] *Hossein Falaki, Ratul Mahajan, Srikanth Kandula, Dimitrios Lymberopoulos, Ramesh Govin-
 dan, and Deborah Estrin. Diversity in smartphone usage. In Proceedings of the 8th Interna-
 tional Conference on Mobile Systems, Applications, and Services, page 179–194. Association
-for Computing Machinery, 2010.
+for Computing Machinery, 2010.*
 
-[5] Abdallah Lakhdari, Amani Abusafia, and Athman Bouguettaya. Crowdsharing wireless energy
-services. In CIC, pages 18–24. IEEE, 2020.
+[5] *Abdallah Lakhdari, Amani Abusafia, and Athman Bouguettaya. Crowdsharing wireless energy
+services. In CIC, pages 18–24. IEEE, 2020.*
 
-[6] Abdallah Lakhdari and Athman Bouguettaya. Fluid composition of intermittent iot energy
+[6] *Abdallah Lakhdari and Athman Bouguettaya. Fluid composition of intermittent iot energy
 services. In 2020 IEEE International Conference on Services Computing (SCC), pages 329–
-336. IEEE, 2020.
+336. IEEE, 2020.*
 
 
-[7] Abdallah Lakhdari and Athman Bouguettaya. Fairness-aware crowdsourcing of iot energy
-services. In ICSOC, pages 351–367. Springer, 2021.
+[7] *Abdallah Lakhdari and Athman Bouguettaya. Fairness-aware crowdsourcing of iot energy
+services. In ICSOC, pages 351–367. Springer, 2021.*
 
-[8] Abdallah Lakhdari and Athman Bouguettaya. Proactive composition of mobile iot energy
+[8] *Abdallah Lakhdari and Athman Bouguettaya. Proactive composition of mobile iot energy
 services. In 2021 IEEE International Conference on Web Services (ICWS), pages 192–197.
-IEEE, 2021.
+IEEE, 2021.*
 
-[9] Abdallah Lakhdari, Athman Bouguettaya, Sajib Mistry, Azadeh Ghari Ghari Neiat, and
+[9] *Abdallah Lakhdari, Athman Bouguettaya, Sajib Mistry, Azadeh Ghari Ghari Neiat, and
 Basem Suleiman. Elastic composition of crowdsourced iot energy services. In MobiQuitous
 2020-17th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Net-
-working and Services, pages 308–317, 2020.
+working and Services, pages 308–317, 2020.*
 
-[10] Abdallah Lakhdari, Athman Bouguettaya, and Azadeh Ghari Neiat. Crowdsourcing energy as
+[10] *Abdallah Lakhdari, Athman Bouguettaya, and Azadeh Ghari Neiat. Crowdsourcing energy as
 a service. In Service-Oriented Computing, pages 342–351. Springer International Publishing,
-2018.
+2018.*
 
-[11] Xiao Lu, Ping Wang, Dusit Niyato, Dong In Kim, and Zhu Han. Wireless charging technolo-
+[11] *Xiao Lu, Ping Wang, Dusit Niyato, Dong In Kim, and Zhu Han. Wireless charging technolo-
 gies: Fundamentals, standards, and network applications. IEEE Communications Surveys
-Tutorials, 18(2):1413–1452, 2016.
+Tutorials, 18(2):1413–1452, 2016.*
 
-[12] Antônio Sá Barreto Neto, Felipe Farias, Marco Aurélio Tomaz Mialaret, Bruno Cartaxo, Prís-
+[12] *Antônio Sá Barreto Neto, Felipe Farias, Marco Aurélio Tomaz Mialaret, Bruno Cartaxo, Prís-
 cila Alves Lima, and Paulo Maciel. Building energy consumption models based on smartphone
-user’s usage patterns. Knowledge-Based Systems, 213:106680, 2021.
+user’s usage patterns. Knowledge-Based Systems, 213:106680, 2021.*
 
-[13] Stephen Romansky, Neil C. Borle, Shaiful Chowdhury, Abram Hindle, and Russ Greiner. Deep
+[13] *Stephen Romansky, Neil C. Borle, Shaiful Chowdhury, Abram Hindle, and Russ Greiner. Deep
 green: Modelling time-series of software energy consumption. In 2017 IEEE International
-Conference on Software Maintenance and Evolution (ICSME), pages 273–283, 2017.
+Conference on Software Maintenance and Evolution (ICSME), pages 273–283, 2017.*
 
-[14] Vu H Tran, Archan Misra, Jie Xiong, and Rajesh Krishna Balan. Wiwear: Wearable sensing
-via directional wifi energy harvesting. In PerCom, pages 1–10. IEEE, 2019.
+[14] *Vu H Tran, Archan Misra, Jie Xiong, and Rajesh Krishna Balan. Wiwear: Wearable sensing
+via directional wifi energy harvesting. In PerCom, pages 1–10. IEEE, 2019.*
 
-[15] Jessica Yao and et al. Wireless iot energy sharing platform. In PerCom Workshops, pages
-118–120. IEEE, 2022
+[15] *Jessica Yao and et al. Wireless iot energy sharing platform. In PerCom Workshops, pages
+118–120. IEEE, 2022*
