@@ -4,7 +4,7 @@ title: 杨朋卫的会议论文现已在Springer Nature上发表
 subtitle: 第20届面向服务计算国际会议的会议记录
 
 # Summary for listings and search engines
-summary: 会议论文《实现无线能源服务的点对点共享》现已在Springer Nature上发表。
+summary: 会议论文《实现无线能源服务的点对点共享》现已由Springer Nature发表。
 
 # Link this post with a project
 projects: []
