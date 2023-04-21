@@ -4,7 +4,7 @@ title: Pengwei Yang's Conference Paper has now been published on Springer Nature
 subtitle: Conference Proceeding on 20th International Conference on Service-Oriented Computing.
 
 # Summary for listings and search engines
-summary: Conference Paper "Towards peer-to-peer sharing of wireless energy services" has now been published on Springer Nature.
+summary: Conference Paper "Towards peer-to-peer sharing of wireless energy services" has now been published by Springer Nature.
 
 # Link this post with a project
 projects: []
