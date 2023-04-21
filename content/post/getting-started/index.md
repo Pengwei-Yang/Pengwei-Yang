@@ -1,6 +1,6 @@
 ---
 commentable: true
-title: Pengwei Yang's Conference Paper has now been published on Springer Nature.
+title: Pengwei Yang's Conference Paper has now been published by Springer Nature.
 subtitle: Conference Proceeding on 20th International Conference on Service-Oriented Computing.
 
 # Summary for listings and search engines
