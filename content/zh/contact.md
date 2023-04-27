@@ -9,8 +9,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        您可以通过以下方式联系我 
-        (如您的IP地址在中国境内，可能暂时无法使用下面的留言方式。但您仍可通过邮箱等其他方式联系到我，感谢理解！)：
+        您可以通过留言或邮件等方式联系我：
       # Contact (add or remove contact options as necessary)
       email: pengwei.yang@ieee.org
       phone: +61 450718075
