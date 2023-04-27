@@ -40,8 +40,8 @@ sections:
           link: 'https://zoom.com'
       
       coordinates:
-          latitude: '-33.8856'
-          longitude: '151.1874'
+          latitude: '-33.8882'
+          longitude: '151.1941'
 
       # Automatically link email and phone or display as text?
       autolink: true
