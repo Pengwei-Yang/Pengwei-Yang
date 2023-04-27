@@ -26,7 +26,10 @@ sections:
         - '星期六 10:00 to 13:00'
         - '星期天 09:00 to 10:00'
       contact_links:
-
+      
+      coordinates:
+          latitude: '-33.8882'
+          longitude: '151.1941'
 
       # Automatically link email and phone or display as text?
       autolink: true
