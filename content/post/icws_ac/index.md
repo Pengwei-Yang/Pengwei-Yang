@@ -15,3 +15,9 @@ image:
   caption: ""
   focal_point: ""
 ---
+
+## ABOUT IEEE ICWS 2023
+
+The International Conference on Web Services (ICWS) is the top international conferences in the field of Service Computing. It has been a prime international forum for both researchers and industry practitioners to exchange the latest fundamental advances in the state of the art and practice of Web-based services, identify emerging research topics, and define the future of Web-based services.
+
+- 💡 [**Link to ICWS 2023**](https://conferences.computer.org/icws/2023/)
