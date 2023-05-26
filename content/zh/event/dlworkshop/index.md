@@ -1,42 +1,23 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.
+commentable: true
+abstract: 研讨会涵盖了多个主题，包括利用生成模型填充时间序列数据中的缺失值，采用注意力机制进行视频摘要和推荐，以及一种新颖的基于Swin Transformer优化算法等。
 address:
-  city: Stanford
-  country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  city: 悉尼
+  country: 澳大利亚
+  postcode: "2006"
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Wowchemy Conference
-event_url: https://example.org
+date: "2023-05-26T18:00:00Z"
+date_end: "2023-05-26T20:00:00Z"
+event: 深度学习研讨会
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**SCSLab**](http://scslab.net/)'
   focal_point: Right
-location: Wowchemy HQ
+location: 悉尼大学
 math: true
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: An example talk using Wowchemy's Markdown slides feature.
+publishDate: "2023-01-01T00:00:00Z"
+summary: 参加深度学习研讨会，与深度学习研究方向同僚进行深入交流，探索尖端的深度学习技术，并与项目导师[**徐畅教授**](http://changxu.xyz/)合影留念。
 tags: []
-title: Example Talk
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+title: 参与深度学习研讨会
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchmey's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
