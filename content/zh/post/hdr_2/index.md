@@ -1,84 +1,47 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+commentable: true
+title: 祝贺杨朋卫再次获得悉尼大学研究委员会的研究支持资金!
+subtitle: 高等研究学位-研究活动支持资金申请再次获得批准! 共计2,593.56澳元，约合人民币11908元
+summary: 高等研究学位-研究活动支持资金申请再次获批，共计2,593.56澳元，约合人民币11908元。2023年共计获得5,000澳元研究资金，约人民币23218元。
 authors:
 - admin
 tags: []
 categories: []
 projects: []
-date: "2019-02-05T00:00:00Z"
-lastMod: "2019-09-05T00:00:00Z"
+date: "2023-05-26T00:00:00Z"
+lastMod: "2023-05-26T00:00:00Z"
 image:
+  placement: 2
   caption: ""
   focal_point: ""
 ---
+**组织标识符**
 
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
+**ROR:** https://ror.org/0384j8v12
 
+**悉尼大学: 悉尼, 澳大利亚**
+http://sydney.edu.au/
 
+**由ROR提供的其他组织标识符**
 
+**FUNDREF:** 501100001774 (preferred), 100009028 , 501100001196 , 501100001248 501100004365 , 501100005157 , 501100006150 , 501100007811
 
-![png](./index_1_0.png)
+**GRID:** grid.1013.3 (preferred)
 
+**ISNI:** 000000041936834X
 
+**ORGREF:** 31928 (preferred), 14725975 , 15096830 , 1686494 9052615
 
+**WIKIDATA:** Q487556 (preferred), Q55080124
 
-```python
-print("Welcome to Academic!")
-```
+**组织维基百科主页:** http://en.wikipedia.org/wiki/University_of_Sydney (preferred)
 
-    Welcome to Academic!
+**资金类别**
+HDR-RASF
 
+**总计**
+2,406.44澳元，约合人民币11908元
+2023年共计获得5,000澳元研究资金，约人民币23218元
 
-## Install Python and JupyterLab
-
-[Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and JupyterLab.
-
-Alternatively, install JupyterLab with `pip3 install jupyterlab`.
-
-## Create or upload a Jupyter notebook
-
-Run the following commands in your Terminal, substituting `<MY-WEBSITE-FOLDER>` and `<SHORT-POST-TITLE>` with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:
-
-```bash
-mkdir -p <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-cd <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-jupyter lab index.ipynb
-```
-
-The `jupyter` command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.
-
-## Edit your post metadata
-
-The first cell of your Jupter notebook will contain your post metadata ([front matter](https://sourcethemes.com/academic/docs/front-matter/)).
-
-In Jupter, choose _Markdown_ as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter: 
-
-```
----
-title: My post's title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-```
-
-Edit the metadata of your post, using the [documentation](https://sourcethemes.com/academic/docs/managing-content) as a guide to the available options.
-
-To set a [featured image](https://sourcethemes.com/academic/docs/managing-content/#featured-image), place an image named `featured` into your post's folder.
-
-For other tips, such as using math, see the guide on [writing content with Academic](https://sourcethemes.com/academic/docs/writing-markdown-latex/). 
-
-## Convert notebook to Markdown
-
-```bash
-jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-```
-
-## Example
-
-This post was created with Jupyter. The orginal files can be found at https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter
+**描述**
+高等研究学位-研究活动支持资金
