@@ -1,6 +1,6 @@
 ---
 commentable: true
-abstract: Participating in a deep learning workshop.
+abstract: The seminar covers various topics including utilizing generative models for filling missing values in time series data, employing attention mechanisms for video summarization and recommendation, and a novel optimization approach for Swin Transformers, among others.
 address:
   city: Sydney
   country: Australia
