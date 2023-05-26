@@ -10,7 +10,6 @@ authors: []
 date: "2023-05-26T18:00:00Z"
 date_end: "2023-05-26T20:00:00Z"
 event: Deep learning workshop
-event_url: https://www.percom.org/
 featured: false
 image:
   caption: 'Image credit: [**SCSLab**](http://scslab.net/)'
