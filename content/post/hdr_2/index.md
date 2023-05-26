@@ -41,6 +41,7 @@ HDR-RASF
 
 **Total funding amount**
 AUD 2,593.56
+
 In 2023, a total of 5,000 Australian dollars was obtained as research funding.
 
 **Description**
