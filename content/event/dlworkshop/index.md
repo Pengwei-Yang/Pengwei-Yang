@@ -1,42 +1,24 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.
+commentable: true
+abstract: Participating in a deep learning workshop.
 address:
-  city: Stanford
-  country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  city: Sydney
+  country: Australia
+  postcode: "2006"
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Wowchemy Conference
-event_url: https://example.org
+date: "2023-05-26T18:00:00Z"
+date_end: "2023-05-26T20:00:00Z"
+event: Deep learning workshop
+event_url: https://www.percom.org/
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**SCSLab**](http://scslab.net/)'
   focal_point: Right
-location: Wowchemy HQ
+location: The University of Sydney
 math: true
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: An example talk using Wowchemy's Markdown slides feature.
+publishDate: "2023-01-01T00:00:00Z"
+summary: Participating in a deep learning symposium, engaging in in-depth discussions with fellow students interested in deep learning, exploring cutting-edge deep learning techniques, and taking a group photo with the deep learning project mentor, [**Prof. Chang Xu**](http://changxu.xyz/).
 tags: []
-title: Example Talk
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+title: Participating in a deep learning workshop.
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchmey's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
