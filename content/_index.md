@@ -55,7 +55,7 @@ sections:
         - title: Research Master Student
           company: Sensors, Clouds, and Services Lab (The University of Sydney)
           company_url: 'http://scslab.net/'
-          company_logo: fa-university
+          company_logo: org-x
           location: J12, Camperdown 2006, Sydney, Australia
           date_start: '2022-02-01'
           date_end: ''
@@ -67,7 +67,7 @@ sections:
         - title: Undergraduate Student
           company: Chengdu University of Information Technology
           company_url: 'https://www.cuit.edu.cn/'
-          company_logo: fa-university
+          company_logo: org-x
           location: Chengdu, Sichuan, China
           date_start: '2016-09-10'
           date_end: '2020-06-31'
