@@ -38,11 +38,8 @@ sections:
         **   ** 
         
         **   ** 
-        
-
     design:
       columns: '1'
- 
   - block: experience
     content:
       title: Experience
@@ -77,8 +74,7 @@ sections:
           description: Electronic Information Science and Technology.
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'    
-  
+      columns: '1'      
   - block: collection
     content:
       title: Top News
