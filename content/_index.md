@@ -61,6 +61,7 @@ sections:
           date_end: ''
           description: |2-
               Research experiences include:
+              
               * Service-Oriented Computing (i.e., energy loss prediction)
               * Multimodal Learning (e.g., CV & NLP)
               * Trustworthy Machine Learning
@@ -74,7 +75,8 @@ sections:
           description: Electronic Information Science and Technology.
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'      
+      columns: '1'  
+      
   - block: collection
     content:
       title: Top News
@@ -102,12 +104,5 @@ sections:
       view: compact
       columns: '1'
       
-  - block: markdown
-    content:
-      title: 'Acknowledge'
-      subtitle: ''
-      text: |-
-        Greatly appreciate the support from **Sensors, Clouds, and Services Lab**, **Australian Research Council**, **IEEE Computer Society**, and **Commonwealth Scientific and Industrial Research Organisation**. The statements made herein are solely the responsibility of the author.       
-    design:
-      columns: '1'
+
 ---
