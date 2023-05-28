@@ -40,42 +40,7 @@ sections:
         **   ** 
     design:
       columns: '1'
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many experience `items` below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Research Master Student
-          company: Sensors, Clouds, and Services Lab (The University of Sydney)
-          company_url: 'http://scslab.net/'
-          company_logo: org-x
-          location: J12, Camperdown 2006, Sydney, Australia
-          date_start: '2022-02-01'
-          date_end: ''
-          description: |2-
-              Research experiences include:
-              
-              * Service-Oriented Computing (i.e., energy loss prediction)
-              * Multimodal Learning (e.g., CV & NLP)
-              * Trustworthy Machine Learning
-        - title: Undergraduate Student
-          company: Chengdu University of Information Technology
-          company_url: 'https://www.cuit.edu.cn/'
-          company_logo: org-x
-          location: Chengdu, Sichuan, China
-          date_start: '2016-09-10'
-          date_end: '2020-06-31'
-          description: Electronic Information Science and Technology.
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'  
+
       
   - block: collection
     content:
@@ -104,5 +69,12 @@ sections:
       view: compact
       columns: '1'
       
-
+  - block: markdown
+    content:
+      title: 'Acknowledges'
+      subtitle: ''
+      text: |-
+        Greatly appreciate the support from **Sensors, Clouds, and Services Lab**, **Australian Research Council**, **IEEE Computer Society**, and **Commonwealth Scientific and Industrial Research Organisation**. The statements made herein are solely the responsibility of the author.       
+    design:
+      columns: '1'
 ---
