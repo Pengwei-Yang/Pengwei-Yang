@@ -1,5 +1,5 @@
 ---
-title: 新闻
+title: Events
 cms_exclude: true
 #url: https://twitter.com/SCSLab/status/1636213572584763393
 
