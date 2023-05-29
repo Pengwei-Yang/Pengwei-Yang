@@ -61,7 +61,6 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-
               * Analysing
               * Modelling
               * Deploying
@@ -74,7 +73,8 @@ sections:
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
-      columns: '2'     
+      columns: '1'   
+      
   - block: collection
     content:
       title: Top News
