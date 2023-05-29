@@ -35,34 +35,24 @@ sections:
 
         **Advisor Bio:** Athman Bouguettaya is a distinguished academic in the field of computer science. He is Professor and former Head of School of Computer Science at The University of Sydney, NSW, Australia. He was previously Professor and Head of School of Computer Science and Information Technology at RMIT University, Melbourne, Australia and Science Leader in Service Computing at CSIRO ICT Centre, Canberra. Australia. His impressive accomplishments as a scholar and researcher have garnered him various prestigious awards and designations, such as IEEE Fellow, IEEE Computer Society Distinguished Scientist, ACM Distinguished Scientist, ACM Distinguished Speaker, and WISE Fellow. He is serving as the Vice-Chair of the 2023 IEEE Computer Society Fellow Evaluating Committee.
         
+        **Education:**
+      course: PhD in Artificial Intelligence      
+      institution: Stanford University     
+      year: 2012
+      
+      course: MEng in Artificial Intelligence     
+      institution: Massachusetts Institute of Technology     
+      year: 2009
+      
+      course: BSc in Artificial Intelligence 
+      institution: Massachusetts Institute of Technology      
+      year: 2008
+        
         **   ** 
         
         **   ** 
     design:
-      columns: '1'
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: CEO
-          company: GenCoin
-          date_start: '2021-01-01'
-          date_end: ''
-
-        - title: Professor of Semiconductor Physics
-          company: University X
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-    design:
-      columns: '1'   
+      columns: '1'  
       
   - block: collection
     content:
