@@ -7,8 +7,8 @@
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
-  #HUGO_ENV = "production"
-env HUGO_ENV="production" hugo
+  HUGO_ENV = "production"
+
 
 [context.deploy-preview]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
