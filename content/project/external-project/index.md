@@ -1,5 +1,5 @@
 ---
-title: Energy Loss Prediction in IoT Services
+title: Energy Loss Prediction in IoT Energy Services
 summary: Service-oriented Computing Research Project
 tags:
 - Demo
