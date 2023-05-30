@@ -1,6 +1,6 @@
 ---
-title: Trustworthy Machine Learning Research Project
-summary: Establishment of Neural Networks Robust to Label Noise
+title: Establishment of Neural Networks Robust to Label Noise
+summary: Trustworthy Machine Learning Research Project
 tags:
 - Deep Learning
 date: "2023-04-01T00:00:00Z"
