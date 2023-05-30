@@ -1,6 +1,6 @@
 ---
-title: 可信机器学习研究项目
-summary: 建立对标签噪声具有鲁棒性的神经网络
+title: 建立对标签噪声具有鲁棒性的神经网络
+summary: 可信机器学习研究项目
 tags:
 - Deep Learning
 date: "2023-04-01T00:00:00Z"
