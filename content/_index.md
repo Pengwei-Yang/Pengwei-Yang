@@ -40,24 +40,6 @@ sections:
         **   ** 
     design:
       columns: '1'  
-  - block: features
-    content:
-      title: My Interests
-      subtitle: Section subtitle
-      text: Section text
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
           
   - block: collection
     content:
@@ -88,7 +70,7 @@ sections:
       
   - block: markdown
     content:
-      title: 'Acknowledges'
+      title: 'Acknowledge'
       subtitle: ''
       text: |-
         Greatly appreciate the support from **Sensors, Clouds, and Services Lab**, **Australian Research Council**, **IEEE Computer Society**, and **Commonwealth Scientific and Industrial Research Organisation**. The statements made herein are solely the responsibility of the author.       
