@@ -22,7 +22,7 @@ marketing:
     twitter: 'pengwei_yang_'
   analytics:
     google_analytics: 'G-NYRDBN3G12'
-    #baidu_tongji: ''
+    baidu_tongji: ''
   verification:
     google: ''
     baidu: ''
