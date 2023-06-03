@@ -1,3 +1,4 @@
+---
 abstract: We propose a novel Energy Loss Prediction(ELP) framework that estimates the energy loss in sharing crowdsourced energy services. Crowdsourcing wireless energy services is a novel and convenient solution to enable the ubiquitous charging of nearby IoT devices. Therefore, capturing the wireless energy sharing loss is essential for the successful deployment of efficient energy service composition techniques. We propose Easeformer, a novel attention-based algorithm to predict the battery levels of IoT devices in a crowdsourced energy sharing environment. The predicted battery levels are used to estimate the energy loss. A set of experiments were conducted to demonstrate the feasibility and effectiveness of the proposed framework. We conducted extensive experiments on real wireless energy datasets to demonstrate that our framework significantly outperforms existing methods.
 authors:
 - admin
@@ -27,3 +28,4 @@ tags:
 - Source Themes
 title: Energy Loss Prediction in IoT Energy Services
 url_pdf: https://arxiv.org/abs/2305.10238
+---
