@@ -1,31 +1,31 @@
 ---
-abstract: 标签噪声是深度学习模型训练中的一个重要障碍。它对图像分类模型的性能有相当大的影响，特别是深度神经网络，因为它们有强烈的记忆噪声标签的倾向，所以特别容易受到影响。在本文中，我们研究了相关标签噪声方法的基本概念。我们创建了一个过渡矩阵估计器，并证明了它对实际过渡矩阵的有效性。此外，我们还研究了两个卷积神经网络分类器LeNet和AlexNet设计的标签噪声稳健性。两个FashionMINIST数据集揭示了两种模型的鲁棒性。由于时间和计算资源的限制，我们无法正确调整复杂的卷积神经网络模型，因此我们无法有效地证明过渡矩阵噪声校正对鲁棒性增强的影响。在未来的研究中，需要更多的努力来微调神经网络模型并探索估计过渡模型的精度。
-author_notes:
-- Equal contribution
-- Equal contribution
-- Equal contribution
+abstract: 我们提出了一种新颖的能量损失预测（ELP）框架，该框架估计了共享众包能源服务中的能量损失。众包无线能源服务是一种新颖且便捷的解决方案，可以实现对附近物联网设备的无处不在的充电。因此，捕获无线能源分享损失对于成功部署高效能源服务组合技术至关重要。我们提出了Easeformer，这是一种新颖的基于注意力的算法，用于预测众包能源共享环境中物联网设备的电池电量。预测的电池电量被用来估计能源损失。我们进行了一系列实验，以证明所提出的框架的可行性和有效性。我们对真实的无线能源数据集进行了广泛的实验，以证明我们的框架明显优于现有的方法。
 authors:
 - admin
-- Chongyangzi Teng
-- Jack George Mangos
-date: "2022-11-01T00:00:00Z"
-doi: ""
-featured: false
+- Amani Abusafia
+- Abdallah Lakhdari
+- Athman Bouguettaya
+date: "2023-05-16T00:00:00Z"
+#doi: "https://doi.org/10.1007/978-3-031-26507-5_38"
+featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: **Pengwei Yang**'
   focal_point: ""
   preview_only: false
-projects: []
-publication: '*ArXiv, 1*(1)'
-publication_short: ""
+links:
+- name: The 2023 IEEE International Conference on Web Services
+  url: https://conferences.computer.org/icws/2023/
+projects:
+- external-project
+publication: In *The 20th International Conference on Service-Oriented Computing (ICSOC)*
+publication_short: In *IEEE Proceeding*
 publication_types:
-- "2"
-publishDate: "2022-11-01T00:00:00Z"
+- "1"
+publishDate: "2023-05-16T00:00:00Z"
 slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: Establishment of Neural Networks Robust to Label Noise
-url_pdf: https://arxiv.org/abs/2211.15279
-
+title: Energy Loss Prediction in IoT Energy Services
+url_pdf: https://arxiv.org/abs/2305.10238
 ---
