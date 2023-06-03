@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: The 2023 IEEE International Conference on Web Services
+- name: IEEE2023年国际网络服务大会
   url: https://conferences.computer.org/icws/2023/
 projects:
 - external-project
