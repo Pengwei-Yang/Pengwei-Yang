@@ -18,7 +18,7 @@ links:
 projects:
 - external-project
 publication: ""
-publication_short: ""
+publication_short: In *IEEE Proceeding*
 publication_types:
 - "3"
 publishDate: "2017-01-01T00:00:00Z"
