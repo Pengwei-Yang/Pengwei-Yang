@@ -2,7 +2,7 @@
 commentable: true
 title: Pengwei Yang has been invited to attend the ICWS conference as the Session Chair.
 subtitle: The conference will be held on July 2-8 in Chicago.
-summary: Pengwei Yang has been invited to attend the ICWS conference as the Session Chair.
+summary: Pengwei Yang has been invited to attend the IEEE International Conference on Web Services as the Session Chair.
 authors:
 - admin
 tags: []
