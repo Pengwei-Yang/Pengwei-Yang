@@ -70,7 +70,7 @@ sections:
       
   - block: markdown
     content:
-      title: 'Acknowledge'
+      title: 'Acknowledgements'
       subtitle: ''
       text: |-
         Greatly appreciate the support from **Sensors, Clouds, and Services Lab**, **Australian Research Council**, **IEEE Computer Society**, and **Commonwealth Scientific and Industrial Research Organisation**. The statements made herein are solely the responsibility of the author.       
