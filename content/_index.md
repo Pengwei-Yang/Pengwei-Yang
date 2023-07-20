@@ -41,24 +41,19 @@ sections:
     design:
       columns: '1'  
 
-  - block: features
-    content:
-      title: My Interests
-      subtitle: Section subtitle
-      text: Section text
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas   
+  - block: tag_cloud
+      content:
+        title: My title
+        subtitle: My subtitle
+        text: **Deep Learning** **Machine Learning** **Internet of Things** **Energy Services**
+        # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
+        taxonomy: tags
+        # Choose how many tags you would like to display (0 = all tags)
+        count: 4
+      design:
+        # Minimum and maximum font sizes (1.0 = 100%).
+        font_size_min: 0.7
+        font_size_max: 2.0
   - block: collection
     content:
       title: Top News
