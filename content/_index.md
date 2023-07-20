@@ -41,11 +41,7 @@ sections:
     design:
       columns: '1'
     
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '1'
+  
   
   - block: collection
     content:
@@ -80,6 +76,12 @@ sections:
       subtitle: ''
       text: |-
         Greatly appreciate the support from **Sensors, Clouds, and Services Lab**, **Australian Research Council**, **IEEE Computer Society**, and **Commonwealth Scientific and Industrial Research Organisation**. The statements made herein are solely the responsibility of the author.       
+    design:
+      columns: '1'
+
+  - block: tag_cloud
+    content:
+      title: Key Links
     design:
       columns: '1'
 ---
