@@ -71,7 +71,7 @@ sections:
       columns: '1'
   - block: tag_cloud
     content:
-      title: Key Links
+      title: Links
     design:
       columns: '1'
           
