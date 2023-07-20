@@ -66,6 +66,12 @@ sections:
       # Choose a layout view
       view: compact
       columns: '1'
+  - block: tag_cloud
+    content:
+      title: Key Links
+    design:
+      columns: '1'
+  
   - block: markdown
     content:
       title: '致谢'
@@ -75,9 +81,5 @@ sections:
     design:
       columns: '1'
 
-  - block: tag_cloud
-    content:
-      title: 相关链接
-    design:
-      columns: '1'
+  
 ---
