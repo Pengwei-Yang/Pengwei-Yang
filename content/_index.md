@@ -70,7 +70,7 @@ sections:
       columns: '1'
   - block: tag_cloud
     content:
-      title: Links
+      title: 
     design:
       columns: '1'
           
