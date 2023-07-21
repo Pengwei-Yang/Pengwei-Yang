@@ -68,11 +68,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '1'
-  - block: tag_cloud
-    content:
-      title: 
-    design:
-      columns: '1'
+
           
   - block: markdown
     content:
@@ -82,6 +78,10 @@ sections:
         Greatly appreciate the support from **Sensors, Clouds, and Services Lab**, **Australian Research Council**, **IEEE Computer Society**, and **Commonwealth Scientific and Industrial Research Organisation**. The statements made herein are solely the responsibility of the author.       
     design:
       columns: '1'
-
+  - block: tag_cloud
+    content:
+      title: 
+    design:
+      columns: '1'
 
 ---
