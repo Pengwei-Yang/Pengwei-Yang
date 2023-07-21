@@ -66,11 +66,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '1'
-  - block: tag_cloud
-    content:
-      title: Links
-    design:
-      columns: '1'
+
   
   - block: markdown
     content:
@@ -80,6 +76,10 @@ sections:
         感谢**传感、云计算与服务实验室**、**澳大利亚研究理事会**、**IEEE计算机学会**和**联邦科学与工业研究组织**对物联网能源服务相关研究的支持。本文最终解释权归作者所有。       
     design:
       columns: '1'
-
+  - block: tag_cloud
+    content:
+      title: 
+    design:
+      columns: '1'
   
 ---
