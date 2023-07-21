@@ -11,7 +11,7 @@ sections:
       text: |-
         您可以通过留言或邮件等方式联系我：
       # Contact (add or remove contact options as necessary)
-      email: pengwei.yang@ieee.org
+      email: pengwei.yang@sydney.edu.au
       phone: +61 450718075
       appointment_url: 'https://calendly.com'
       address: 
