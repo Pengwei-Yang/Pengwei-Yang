@@ -1,7 +1,6 @@
 ---
 commentable: true
-abstract: 
-I'm honored to be presenting and serving as a session chair at the 2023 IEEE World Congress on Services. This prestigious event is a leading international forum for researchers and industry practitioners to discuss and exchange the latest advances in Web-based services and services computing. The Congress, which is a hybrid event, covers a wide range of topics, including cloud, edge and Internet-of-Things (IoT) systems, intelligent computing, Big Data, and blockchain applications. It also addresses critical issues such as security, privacy, dependability, trustworthiness, and cost-effectiveness. This year, the Congress will also explore the impact of COVID-19 on services and the world infrastructure. I look forward to contributing to these important discussions and learning from my peers in the field.
+abstract: I'm honored to be presenting and serving as a session chair at the 2023 IEEE World Congress on Services. This prestigious event is a leading international forum for researchers and industry practitioners to discuss and exchange the latest advances in Web-based services and services computing. The Congress, which is a hybrid event, covers a wide range of topics, including cloud, edge and Internet-of-Things (IoT) systems, intelligent computing, Big Data, and blockchain applications. It also addresses critical issues such as security, privacy, dependability, trustworthiness, and cost-effectiveness. This year, the Congress will also explore the impact of COVID-19 on services and the world infrastructure. I look forward to contributing to these important discussions and learning from my peers in the field.
 address:
   city: CHICAGO
   country: ILLINOIS USA
@@ -10,7 +9,8 @@ all_day: false
 authors: []
 date: "2023-07-02T08:00:00Z"
 date_end: "2023-07-08T18:00:00Z"
-event: [**2023 IEEE International Conference on Web Services**](https://conferences.computer.org/icws/2023/)
+event: 2023 IEEE International Conference on Web Services
+event_url: https://conferences.computer.org/icws/2023/
 featured: false
 image:
   caption: 'Image credit: [**SCSLab**](http://scslab.net/)'
