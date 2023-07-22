@@ -2,7 +2,7 @@
 commentable: true
 title: 祝贺杨朋卫的研究长文被ICWS 2023接收!
 subtitle: 研究长文被IEEE国际万维网服务大会（ICWS 2023）接受
-summary: 研究长文《物联网能源服务中的能量损失预测》被IEEE国际万维网服务大会（ICWS 2023）接受。
+summary: 研究长文"Energy Loss Prediction in IoT Energy Services"被IEEE国际万维网服务大会（ICWS 2023）接受。
 authors:
 - admin
 tags: []
