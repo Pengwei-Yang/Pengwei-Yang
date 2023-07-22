@@ -52,7 +52,7 @@ Pengwei Yang, Amani Abusafia, Abdallah Lakhdari & Athman Bouguettaya
 
 本研究部分由澳大利亚研究委员会的LE220100078资助完成。本文最终解释权归论文作者所有。
 
-## Cite this paper
+## 引用这篇论文
 
 P. Yang, A. Abusafia, A. Lakhdari and A. Bouguettaya, "Monitoring Efficiency of IoT Wireless Charging," 2023 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops), Atlanta, GA, USA, 2023, pp. 306-308, doi: 10.1109/PerComWorkshops56833.2023.10150276.
 
