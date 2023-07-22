@@ -41,6 +41,7 @@ sections:
     content:
       title: 
       text: |-
+    
         **Education:**
         - **MA in Information Technology (Research Pathway)**
           - 🏛 [**The University of Sydney (Australia)**](https://www.sydney.edu.au/)
