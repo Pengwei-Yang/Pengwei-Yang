@@ -21,8 +21,9 @@ marketing:
     description: 'Welcome to the personal academic website of Pengwei Yang.'
     twitter: 'pengwei_yang_'
   analytics:
-    google_analytics: G-NYRDBN3G12
+    google_analytics: 'G-NYRDBN3G12'
     baidu_tongji: ''
+    microsoft_clarity: 'i32ju38kdl'
   verification:
     google: ''
     baidu: ''
