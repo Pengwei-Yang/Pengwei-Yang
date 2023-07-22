@@ -43,9 +43,9 @@ sections:
       text: |-
         **Education:**
         - **MA in Information Technology (Research Pathway)**
-          - 🏛 [**The University of Sydney**](https://www.sydney.edu.au/)
+          - 🏛 [**The University of Sydney (Australia)**](https://www.sydney.edu.au/)
         - **BA in Engineering**
-          - 🏛 [**Chengdu University of Information Technology**](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
+          - 🏛 [**Chengdu University of Information Technology (China)**](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
 
         **Publication:**
         {{< spoiler text="📄 [Monitoring Efficiency of IoT Wireless Charging](https://ieeexplore.ieee.org/abstract/document/10150276)" >}}
