@@ -57,6 +57,18 @@ sections:
         {{< spoiler text="📄 [Energy Loss Prediction in IoT Energy Services](https://arxiv.org/abs/2305.10238)" >}}
           IEEE International Conference on Web Services (Core A / CCF-B Conference)
         {{< /spoiler >}}
+        {{< spoiler text="📄 [Establishment of Neural Networks Robust to Label Noise](https://arxiv.org/abs/2211.15279v3)" >}}
+          Preprint
+        {{< /spoiler >}}
+        {{< spoiler text="📄 [Contaminated Images Recovery by Implementing Non-negative Matrix Factorisation](https://arxiv.org/abs/2211.04247v4)" >}}
+          Preprint
+        {{< /spoiler >}}
+        {{< spoiler text="📄 [Multimodal in Multi-Label Classification: A Report](https://www.researchgate.net/publication/371473901_Multimodal_in_Multi-Label_Classification_A_Report)" >}}
+          Technical Report
+        {{< /spoiler >}}
+        {{< spoiler text="📄 [Techniques in Deep Learning: A Report](https://www.researchgate.net/publication/370277982_Techniques_in_Deep_Learning_A_Report)" >}}
+          Technical Report
+        {{< /spoiler >}}
         **   **
 
         
