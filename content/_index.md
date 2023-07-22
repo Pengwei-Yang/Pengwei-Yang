@@ -34,6 +34,9 @@ sections:
         **Research Interests:** Service-oriented Computing, IoT, Natural Language Processing, Deep Learning, Trustworthy Machine Learning
 
         **Advisor Bio:** Prof. Athman Bouguettaya is a distinguished academic in the field of computer science. He is Professor and former Head of School of Computer Science at The University of Sydney, NSW, Australia. He was previously Professor and Head of School of Computer Science and Information Technology at RMIT University, Melbourne, Australia and Science Leader in Service Computing at CSIRO ICT Centre, Canberra. Australia. His impressive accomplishments as a scholar and researcher have garnered him various prestigious awards and designations, such as IEEE Fellow, IEEE Computer Society Distinguished Scientist, ACM Distinguished Scientist, ACM Distinguished Speaker, and WISE Fellow. He is serving as the Vice-Chair of the 2023 IEEE Computer Society Fellow Evaluating Committee.
+    design:
+      columns: '1'
+  - block: markdown
     content:
       subtitle: 'Experience'
       text: |-
