@@ -38,7 +38,7 @@ sections:
 
   - block: markdown
     content:
-      title: '个人履历'
+      title: ' '
       text: |-
         **教育背景:**
         - **信息技术硕士 (研究型)**
