@@ -56,7 +56,7 @@ Pengwei Yang, Amani Abusafia, Abdallah Lakhdari & Athman Bouguettaya
 
 P. Yang, A. Abusafia, A. Lakhdari and A. Bouguettaya, "Monitoring Efficiency of IoT Wireless Charging," 2023 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops), Atlanta, GA, USA, 2023, pp. 306-308, doi: 10.1109/PerComWorkshops56833.2023.10150276.
 
-## Links
+## 链接
 
 - 📚 [**文章链接**](https://ieeexplore.ieee.org/document/10150276)
 - 💡 [**传感、云计算与服务实验室官方网站链接**](http://scslab.net/)
