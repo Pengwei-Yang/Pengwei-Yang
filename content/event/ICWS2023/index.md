@@ -1,32 +1,31 @@
 ---
 commentable: true
-abstract: The seminar covers various topics including utilizing generative models for filling missing values in time series data, employing attention mechanisms for video summarization and recommendation, and a novel optimization approach for Swin Transformers, among others.
+abstract: 
+I'm honored to be presenting and serving as a session chair at the 2023 IEEE World Congress on Services. This prestigious event is a leading international forum for researchers and industry practitioners to discuss and exchange the latest advances in Web-based services and services computing. The Congress, which is a hybrid event, covers a wide range of topics, including cloud, edge and Internet-of-Things (IoT) systems, intelligent computing, Big Data, and blockchain applications. It also addresses critical issues such as security, privacy, dependability, trustworthiness, and cost-effectiveness. This year, the Congress will also explore the impact of COVID-19 on services and the world infrastructure. I look forward to contributing to these important discussions and learning from my peers in the field.
 address:
-  city: Sydney
-  country: Australia
-  postcode: "2006"
+  city: CHICAGO
+  country: ILLINOIS USA
+  postcode: "60601"
 all_day: false
 authors: []
-date: "2023-05-26T18:00:00Z"
-date_end: "2023-05-26T20:00:00Z"
-event: Deep learning workshop
+date: "2023-07-02T08:00:00Z"
+date_end: "2023-07-08T18:00:00Z"
+event: [**2023 IEEE International Conference on Web Services**](https://conferences.computer.org/icws/2023/)
 featured: false
 image:
   caption: 'Image credit: [**SCSLab**](http://scslab.net/)'
   focal_point: Right
-location: The University of Sydney
+location: Hyatt Regency Chicago
 math: true
 publishDate: "2023-01-01T00:00:00Z"
-summary: Participating in a deep learning symposium, engaging in in-depth discussions with fellow students interested in deep learning, exploring cutting-edge deep learning techniques, and taking a group photo with the deep learning project mentor, [**Prof. Chang Xu**](http://changxu.xyz/).
+summary: I'm honored to be presenting and serving as a session chair at the 2023 IEEE World Congress on Services. This prestigious event is a leading international forum for researchers and industry practitioners to discuss and exchange the latest advances in Web-based services and services computing.
 tags: []
-title: Participating in a deep learning workshop.
+title: Presenting and serving as a session chair in 2023 IEEE World Congress on Services.
 ---
-The workshop covers the following topics in detail:
+**About IEEE ICWS 2023**
 
-- Utilizing generative models for filling missing values in time series data: This topic explores the application of generative models, such as autoencoders or variational autoencoders, to fill the gaps or missing values in time series data. These models are trained to learn the underlying patterns and dependencies in the data, allowing them to generate plausible values for the missing entries.
+The International Conference on Web Services (ICWS) has been a prime international forum for both researchers and industry practitioners to exchange the latest fundamental advances in the state of the art and practice of Web-based services, identify emerging research topics, and define the future of Web-based services. All topics regarding Web-based services lifecycle study and management align with the theme of ICWS.
 
-- Employing attention mechanisms for video summarization and recommendation: This topic focuses on using attention mechanisms, a key component in deep learning models, to improve video summarization and recommendation systems. Attention mechanisms enable the model to focus on important video segments or frames, capturing the most relevant information for summarization and personalized recommendations.
+**About IEEE WORLD CONGRESS ON SERVICES**
 
-- Novel optimization approach for Swin Transformers: Swin Transformers are a recent advancement in the field of computer vision, known for their ability to efficiently process image data with large receptive fields. This topic presents a new optimization approach specifically designed for Swin Transformers, aiming to enhance their performance in tasks such as image classification or object detection. The approach involve architectural modifications, training techniques, and optimization algorithms tailored for Swin Transformers.
-
-These are just a few of the topics covered in the workshop, providing attendees with insights into the latest advancements and techniques in the field of deep learning.
+SERVICES 2023 is a hybrid event, solely sponsored by the IEEE Computer Society under the auspice of the Technical Community on Services Computing (TCSVC). The scope of SERVICES 2023 covers all aspects of services computing and applications, current or emerging. Centered around services computing, SERVICES 2023 covers various systems and networking research pertaining to cloud, edge and Internet-of Things (IoT), as well as technologies for intelligent computing, learning, Big Data and blockchain applications, addressing critical issues such as knowledge network, high performance, security, privacy, dependability, trustworthiness, and cost-effectiveness. Particularly, the 2023 Congress will welcome papers on the aftermath and the impact of COVID-19 on services and the world infrastructure. In addition to co-located theme-topic conferences, the Congress will also include symposia and workshops supporting deep-dive discussions on emerging important topics, and complement the SERVICES 2023 program with industry and application presentations and panels. Authors are invited to prepare early and submit original papers to any of these conferences at www.easychair.org. All submitted manuscripts will be peer-reviewed by at least three reviewers. Accepted and presented papers will appear in the conference proceedings published by the IEEE Computer Society Press. SERVICES 2023 is the only premier professional event for the services computing field offered by IEEE.
