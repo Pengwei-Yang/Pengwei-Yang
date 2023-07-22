@@ -48,14 +48,14 @@ sections:
           - 🏛 [**Chengdu University of Information Technology**](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
 
         **Publication:**
-        {{< spoiler text="📄 [Energy Loss Prediction in IoT Energy Services](https://www.sydney.edu.au/)" >}}
-          IEEE International Conference on Web Services (Core A / CCF-B Conference)
-        {{< /spoiler >}}
-        {{< spoiler text="📄 Monitoring Efficiency of IoT Wireless Charging" >}}
+        {{< spoiler text="📄 [Monitoring Efficiency of IoT Wireless Charging](https://ieeexplore.ieee.org/abstract/document/10150276)" >}}
           IEEE International Conference on Pervasive Computing and Communications (Core A* / CCF-B Conference)
         {{< /spoiler >}}
-        {{< spoiler text="📄 Towards Peer-to-Peer Sharing of Wireless Energy Services" >}}
+        {{< spoiler text="📄 [Towards Peer-to-Peer Sharing of Wireless Energy Services](https://link.springer.com/chapter/10.1007/978-3-031-26507-5_38)" >}}
           International Conference on Service-Oriented Computing (Core A / CCF-B Conference)
+        {{< /spoiler >}}
+        {{< spoiler text="📄 [Energy Loss Prediction in IoT Energy Services](https://arxiv.org/abs/2305.10238)" >}}
+          IEEE International Conference on Web Services (Core A / CCF-B Conference)
         {{< /spoiler >}}
         **   **
 
