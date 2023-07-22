@@ -1,6 +1,6 @@
 ---
 commentable: true
-abstract: I'm honored to be presenting and serving as a session chair at the 2023 IEEE World Congress on Services. This prestigious event is a leading international forum for researchers and industry practitioners to discuss and exchange the latest advances in Web-based services and services computing. The Congress, which is a hybrid event, covers a wide range of topics, including cloud, edge and Internet-of-Things (IoT) systems, intelligent computing, Big Data, and blockchain applications. It also addresses critical issues such as security, privacy, dependability, trustworthiness, and cost-effectiveness. This year, the Congress will also explore the impact of COVID-19 on services and the world infrastructure. I look forward to contributing to these important discussions and learning from my peers in the field.
+abstract: I'm honored to be presenting and serving as a session chair at the 2023 IEEE World Congress on Services. This prestigious event is a leading international forum for researchers and industry practitioners to discuss and exchange the latest advances in Web-based services and services computing. 
 address:
   city: CHICAGO
   country: ILLINOIS USA
