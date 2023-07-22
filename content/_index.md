@@ -46,14 +46,15 @@ sections:
           - 🏛 [**The University of Sydney**](https://www.sydney.edu.au/)
         - **BA in Engineering**
           - 🏛 [**Chengdu University of Information Technology**](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
+
         **Publication:**
-        {{< spoiler text="Energy Loss Prediction in IoT Energy Services" >}}
+        📄{{< spoiler text="Energy Loss Prediction in IoT Energy Services" >}}
           IEEE International Conference on Web Services (Core A / CCF-B Conference)
         {{< /spoiler >}}
-        {{< spoiler text="Monitoring Efficiency of IoT Wireless Charging" >}}
+        📄{{< spoiler text="Monitoring Efficiency of IoT Wireless Charging" >}}
           IEEE International Conference on Pervasive Computing and Communications (Core A* / CCF-B Conference)
         {{< /spoiler >}}
-        {{< spoiler text="Towards Peer-to-Peer Sharing of Wireless Energy Services" >}}
+        📄{{< spoiler text="Towards Peer-to-Peer Sharing of Wireless Energy Services" >}}
           International Conference on Service-Oriented Computing (Core A / CCF-B Conference)
         {{< /spoiler >}}
         **   **
