@@ -4,7 +4,7 @@ title: 杨朋卫的会议论文现已由Springer出版
 subtitle: 第20届面向服务计算国际会议的会议记录
 
 # Summary for listings and search engines
-summary: 会议论文《实现无线能源服务的点对点共享》现已由Springer出版。
+summary: 会议论文"Towards Peer-to-Peer Sharing of Wireless Energy Services"现已由Springer出版。
 
 # Link this post with a project
 projects: []
@@ -55,7 +55,7 @@ categories: []
 
 Pengwei Yang, Amani Abusafia, Abdallah Lakhdari & Athman Bouguettaya
 
-## 鸣谢
+## 致谢
 
 本研究部分由澳大利亚研究委员会的LE220100078和LE180100158资助完成。本文最终解释权归论文作者所有。
 
@@ -66,7 +66,7 @@ Yang, P., Abusafia, A., Lakhdari, A., Bouguettaya, A. (2023). Towards Peer-to-Pe
 ## 链接
 
 - ⬆️ [**电子书链接**](https://link.springer.com/book/10.1007/978-3-031-26507-5)
-- 📚 [**本文链接**](https://doi.org/10.1007/978-3-031-26507-5_38)
+- 📚 [**文章链接**](https://doi.org/10.1007/978-3-031-26507-5_38)
 - 💡 [**传感、云计算与服务实验室官方网站链接**](http://scslab.net/)
 
 ## 编辑及其附属机构
