@@ -48,7 +48,7 @@ sections:
           - 🏛 [**Chengdu University of Information Technology**](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
 
         **Publication:**
-        {{< spoiler text="📄 [**Energy Loss Prediction in IoT Energy Services**](https://www.sydney.edu.au/)" >}}
+        {{< spoiler text="📄 [Energy Loss Prediction in IoT Energy Services](https://www.sydney.edu.au/)" >}}
           IEEE International Conference on Web Services (Core A / CCF-B Conference)
         {{< /spoiler >}}
         {{< spoiler text="📄 Monitoring Efficiency of IoT Wireless Charging" >}}
