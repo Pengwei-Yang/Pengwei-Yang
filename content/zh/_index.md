@@ -33,7 +33,29 @@ sections:
         **研究兴趣：** 面向服务计算，物联网，自然语言处理，深度学习，可信机器学习
 
         **导师简介：** Athman Bouguettaya教授是计算机科学领域的一位杰出科学家, 于2022年被评为服务计算与物联网领域全球前2%的顶尖学者。他是澳大利亚新南威尔士州悉尼大学的教授和计算机科学学院的前院长。他是澳大利亚服务科学协会的创始成员和前任主席。他曾任澳大利亚皇家墨尔本大学计算机科学与信息技术学院的教授和院长，以及澳大利亚联邦科学与工业研究组织服务计算领域的科学领袖。作为一名学者，他取得了极其卓越的成就，如IEEE院士、IEEE计算机协会杰出科学家、ACM杰出科学家、ACM杰出发言人以及WISE院士。他在2023年被任命为IEEE计算机协会院士评估委员会副主席。     
-                
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
+      title: '履历'
+      text: |-
+        **教育背景:**
+        - **信息技术硕士 (研究型)**
+          - 🏛 [**悉尼大学 (澳大利亚)**](https://www.sydney.edu.au/)
+        - **电子工程学士**
+          - 🏛 [**成都信息工程大学 (中国)**](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
+
+        **出版物:**
+        {{< spoiler text="📄 [Monitoring Efficiency of IoT Wireless Charging](https://ieeexplore.ieee.org/abstract/document/10150276)" >}}
+          IEEE International Conference on Pervasive Computing and Communications (Core A* / CCF-B Conference)
+        {{< /spoiler >}}
+        {{< spoiler text="📄 [Towards Peer-to-Peer Sharing of Wireless Energy Services](https://link.springer.com/chapter/10.1007/978-3-031-26507-5_38)" >}}
+          International Conference on Service-Oriented Computing (Core A / CCF-B Conference)
+        {{< /spoiler >}}
+        {{< spoiler text="📄 [Energy Loss Prediction in IoT Energy Services](https://arxiv.org/abs/2305.10238)" >}}
+          IEEE International Conference on Web Services (Core A / CCF-B Conference)
+        {{< /spoiler >}}     
         **   ** 
         
         **   ** 
