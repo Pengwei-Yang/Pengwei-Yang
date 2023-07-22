@@ -47,7 +47,27 @@ sections:
           - 🏛 [**成都信息工程大学 (中国)**](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
 
         **发表文章:**
-          
+         {{< spoiler text="📄 [Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, and Athman Bouguettaya. "Towards peer-to-peer sharing of wireless energy services." International Conference on Service-Oriented Computing. Cham: Springer Nature Switzerland, 2022.](https://link.springer.com/chapter/10.1007/978-3-031-26507-5_38)" >}}
+          International Conference on Service-Oriented Computing (Core A / CCF-B Conference)
+        {{< /spoiler >}}
+        {{< spoiler text="📄 [Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, and Athman Bouguettaya. "Monitoring efficiency of iot wireless charging." 2023 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops). IEEE, 2023.](https://ieeexplore.ieee.org/abstract/document/10150276)" >}}
+          IEEE International Conference on Pervasive Computing and Communications (Core A* / CCF-B Conference)
+        {{< /spoiler >}}
+        {{< spoiler text="📄 [Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, and Athman Bouguettaya. "Energy Loss Prediction in IoT Energy Services." 2023 IEEE International Conference on Web Services (ICWS). IEEE, 2023.](https://arxiv.org/abs/2305.10238)" >}}
+          IEEE International Conference on Web Services (Core A / CCF-B Conference)
+        {{< /spoiler >}}
+        {{< spoiler text="📄 [Pengwei Yang, Chongyangzi Teng, and Jack George Mangos. "Establishment of Neural Networks Robust to Label Noise." arXiv preprint arXiv:2211.15279 (2022).](https://arxiv.org/abs/2211.15279v3)" >}}
+          Preprint
+        {{< /spoiler >}}
+        {{< spoiler text="📄 [Pengwei Yang, Chongyangzi Teng, and Jack George Mangos. "Containminated Images Recovery by Implementing Non-negative Matrix Factorisation." arXiv preprint arXiv:2211.04247 (2022).](https://arxiv.org/abs/2211.04247v4)" >}}
+          Preprint
+        {{< /spoiler >}}
+        {{< spoiler text="📄 [Chongyangzi Teng, Pengwei Yang, and Mengshen Guo. "Multimodal in Multi-Label Classification: A Report."](https://www.researchgate.net/publication/371473901_Multimodal_in_Multi-Label_Classification_A_Report)" >}}
+          Technical Report
+        {{< /spoiler >}}
+        {{< spoiler text="📄 [Chongyangzi Teng, Pengwei Yang, and Mengshen Guo. "Techniques in Deep Learning: A Report."](https://www.researchgate.net/publication/370277982_Techniques_in_Deep_Learning_A_Report)" >}}
+          Technical Report
+        {{< /spoiler >}}   
         **   ** 
         
         **   ** 
