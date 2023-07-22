@@ -21,12 +21,12 @@ bio: Pengwei Yang is a Master's student in the School of Computer Science at the
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: orcid
+- icon: acm
   icon_pack: ai
-  link: 'https://orcid.org/0000-0001-7961-2381'  # For a direct email link, use "mailto:test@example.org".
-- icon: researchgate
+  link: 'https://dl.acm.org/profile/99660759653'  # For a direct email link, use "mailto:test@example.org".
+- icon: ieee
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Pengwei-Yang
+  link: https://ieeexplore.ieee.org/author/37089881653
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=GLs5fDsAAAAJ
