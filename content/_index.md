@@ -39,7 +39,7 @@ sections:
       columns: '1'
   - block: markdown
     content:
-      title: 'Experience'
+      title: 
       text: |-
         **Education:**
         - **MA in Information Technology (Research Pathway)**
