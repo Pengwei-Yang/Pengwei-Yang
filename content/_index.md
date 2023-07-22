@@ -39,7 +39,7 @@ sections:
       columns: '1'
   - block: markdown
     content:
-      title: 
+      title: ' '
       text: |-
     
         **Education:**
