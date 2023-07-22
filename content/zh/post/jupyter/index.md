@@ -2,7 +2,7 @@
 commentable: true
 title: 祝贺杨朋卫的会议论文被PerCom 2023接收!
 subtitle: 会议论文被第21届国际普适计算与通信会议（PerCom 2023）接受
-summary: 会议论文《物联网无线充电的效率监测》被第21届国际普适计算与通信会议（PerCom 2023）接受。
+summary: 会议论文"Monitoring Efficiency of IoT Wireless Charging"被第21届国际普适计算与通信会议（PerCom 2023）接受。
 authors:
 - admin
 tags: []
