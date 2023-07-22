@@ -46,7 +46,7 @@ sections:
         - **电子工程学士**
           - 🏛 [**成都信息工程大学 (中国)**](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
 
-        **出版物:**
+        **发表文章:**
         {{< spoiler text="📄 [Monitoring Efficiency of IoT Wireless Charging](https://ieeexplore.ieee.org/abstract/document/10150276)" >}}
           IEEE International Conference on Pervasive Computing and Communications (Core A* / CCF-B Conference)
         {{< /spoiler >}}
