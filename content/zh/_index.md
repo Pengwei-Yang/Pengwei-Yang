@@ -40,13 +40,13 @@ sections:
     content:
       title: ' '
       text: |-
-        **教育背景:**
+        ### 教育背景:
         - **信息技术硕士 (研究型)**
           - 🏛 [**悉尼大学 (澳大利亚)**](https://www.sydney.edu.au/)
         - **电子工程学士**
           - 🏛 [**成都信息工程大学 (中国)**](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
 
-        **发表文章:**
+        ### 发表文章:
          {{< spoiler text="📄 [Towards peer-to-peer sharing of wireless energy services](https://link.springer.com/chapter/10.1007/978-3-031-26507-5_38)" >}}
           Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, and Athman Bouguettaya. "Towards peer-to-peer sharing of wireless energy services." *International Conference on Service-Oriented Computing*. Cham: Springer Nature Switzerland, 2022.
         {{< /spoiler >}}
@@ -69,7 +69,7 @@ sections:
           Chongyangzi Teng, Pengwei Yang, and Mengshen Guo. "Techniques in Deep Learning: A Report."
         {{< /spoiler >}}
     
-        **项目展示:**
+        ### 项目展示:
         - **Monitoring Efficiency of IoT Wireless Charging**
         {{< youtube 8cYG6jscivE >}}
 
