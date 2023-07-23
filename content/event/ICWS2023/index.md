@@ -24,7 +24,7 @@ title: Presenting and serving as a session chair in 2023 IEEE World Congress on 
 ---
 
 - **Formal Presentation**
-{{< youtube d-arKnVtVJmpo >}}
+{{< youtube arKnVtVJmpo >}}
 
 [**About IEEE ICWS**](https://conferences.computer.org/icws/2023/)
 
