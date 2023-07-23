@@ -118,7 +118,11 @@ sections:
       title: '致谢'
       subtitle: ''
       text: |-
-        感谢**传感、云计算与服务实验室**、**澳大利亚研究理事会**、**IEEE计算机学会**和**联邦科学与工业研究组织**对物联网能源服务相关研究的支持。本文最终解释权归作者所有。       
+        感谢**传感、云计算与服务实验室**、**澳大利亚研究理事会**、**IEEE计算机学会**和**联邦科学与工业研究组织**对物联网能源服务相关研究的支持。本文最终解释权归作者所有。
+
+        <script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+        <div class="commonninja_component pid-12c0f14f-4e06-400d-b55d-f755bdd5351b"></div>
+           
     design:
       columns: '1'
   - block: tag_cloud
