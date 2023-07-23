@@ -69,7 +69,7 @@ sections:
           Chongyangzi Teng, Pengwei Yang, and Mengshen Guo. "Techniques in Deep Learning: A Report."
         {{< /spoiler >}}
     
-        ### 项目展示:
+        ### 项目展示 (from YouTube):
         - **Monitoring Efficiency of IoT Wireless Charging**
         {{< youtube 8cYG6jscivE >}}
 
