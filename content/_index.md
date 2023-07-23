@@ -72,7 +72,11 @@ sections:
         {{< /spoiler >}}
 
         **Project:**
-        {{< youtube cIvrhJUCq2g >}}
+        - **Monitoring Efficiency of IoT Wireless Charging**
+        {{< youtube 8cYG6jscivE >}}
+
+        - **Towards Peer-to-Peer Sharing of Wireless Energy Services**
+        {{< youtube d-bdFGk6z4A >}}
 
         **   **
 
