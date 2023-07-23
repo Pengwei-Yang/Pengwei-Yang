@@ -79,7 +79,7 @@ sections:
         {{< youtube d-bdFGk6z4A >}}
 
         - **Energy Loss Prediction in IoT Energy Services**
-        {{< youtube d-arKnVtVJmpo >}}
+        {{< youtube arKnVtVJmpo >}}
     
         **   **
 
