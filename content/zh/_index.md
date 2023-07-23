@@ -67,7 +67,15 @@ sections:
         {{< /spoiler >}}
         {{< spoiler text="📄 [Techniques in Deep Learning: A Report](https://www.researchgate.net/publication/370277982_Techniques_in_Deep_Learning_A_Report)" >}}
           Chongyangzi Teng, Pengwei Yang, and Mengshen Guo. "Techniques in Deep Learning: A Report."
-        {{< /spoiler >}}   
+        {{< /spoiler >}}
+    
+        **Project:**
+        - **Monitoring Efficiency of IoT Wireless Charging**
+        {{< youtube 8cYG6jscivE >}}
+
+        - **Towards Peer-to-Peer Sharing of Wireless Energy Services**
+        {{< youtube d-bdFGk6z4A >}}
+    
         **   ** 
         
         **   ** 
