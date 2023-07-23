@@ -42,6 +42,11 @@ categories: []
 
 Crowdsourcing wireless energy is a novel and convenient solution to charge nearby IoT devices. Several applications have been proposed to enable peer-to-peer wireless energy charging. However, none of them considered the energy efficiency of the wireless transfer of energy. In this paper, we propose an energy estimation framework that predicts the actual received energy. Our framework uses two machine learning algorithms, namely XGBoost and Neural Network, to estimate the received energy. The result shows that the Neural Network model is better than XGBoost at predicting the received energy. We train and evaluate our models by collecting a real wireless energy dataset.
 
+## Presentation
+
+- **Monitoring Efficiency of IoT Wireless Charging**
+{{< youtube 8cYG6jscivE >}}
+
 ### Authors and Affiliations
 
 **The University of Sydney, Sydney, NSW, 2000, Australia**
