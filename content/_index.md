@@ -42,7 +42,7 @@ sections:
       title: ' '
       text: |-
     
-        **Education:**
+        ### Education:
         - **MA in Information Technology (Research Pathway)**
           - 🏛 [**The University of Sydney (Australia)**](https://www.sydney.edu.au/)
         - **BA in Engineering**
