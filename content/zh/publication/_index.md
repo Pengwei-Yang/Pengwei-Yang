@@ -12,4 +12,4 @@ image:
 ---
 <script async src="https://cse.google.com/cse.js?cx=c12e3718102bb4f28">
 </script>
-<div class="gcse-search"></div>
+<div class="gcse-searchbox-only"></div>
