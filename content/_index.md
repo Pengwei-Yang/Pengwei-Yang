@@ -71,6 +71,8 @@ sections:
           Chongyangzi Teng, Pengwei Yang, and Mengshen Guo. "Techniques in Deep Learning: A Report."
         {{< /spoiler >}}
 
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=IPz9CHURQbIcxY1LcH-h8QSuFwl3DVHDYvYkveXsHqc&cl=ffffff&w=a"></script>
+
         ### Projects:
         - **Monitoring Efficiency of IoT Wireless Charging**
         {{< youtube 8cYG6jscivE >}}
@@ -131,4 +133,4 @@ sections:
       columns: '1'
 
 ---
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=IPz9CHURQbIcxY1LcH-h8QSuFwl3DVHDYvYkveXsHqc&cl=ffffff&w=a"></script>
+
