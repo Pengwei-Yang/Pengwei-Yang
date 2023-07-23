@@ -47,7 +47,7 @@ sections:
           - 🏛 [**成都信息工程大学 (中国)**](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
 
         ### 发表文章:
-         {{< spoiler text="📄 [Towards peer-to-peer sharing of wireless energy services](https://link.springer.com/chapter/10.1007/978-3-031-26507-5_38)" >}}
+         {{< spoiler text="📄 [**Towards peer-to-peer sharing of wireless energy services**](https://link.springer.com/chapter/10.1007/978-3-031-26507-5_38)" >}}
           Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, and Athman Bouguettaya. "Towards peer-to-peer sharing of wireless energy services." *International Conference on Service-Oriented Computing*. Cham: Springer Nature Switzerland, 2022.
         {{< /spoiler >}}
         {{< spoiler text="📄 [Monitoring efficiency of iot wireless charging](https://ieeexplore.ieee.org/abstract/document/10150276)" >}}
