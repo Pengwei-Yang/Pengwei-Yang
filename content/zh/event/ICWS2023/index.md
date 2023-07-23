@@ -23,7 +23,7 @@ tags: []
 title: 在2023年IEEE世界服务大会上发表演讲并担任分会场主席
 ---
 
-- **项目展示**
+- **项目展示 (from YouTube)**
 {{< youtube arKnVtVJmpo >}}
 
 [**关于IEEE国际网络服务大会**](https://conferences.computer.org/icws/2023/)
