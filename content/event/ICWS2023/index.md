@@ -22,6 +22,10 @@ summary: I'm honored to be presenting and serving as a session chair at the 2023
 tags: []
 title: Presenting and serving as a session chair in 2023 IEEE World Congress on Services.
 ---
+
+- **Formal Presentation**
+{{< youtube d-arKnVtVJmpo >}}
+
 [**About IEEE ICWS**](https://conferences.computer.org/icws/2023/)
 
 The International Conference on Web Services (ICWS) has been a prime international forum for both researchers and industry practitioners to exchange the latest fundamental advances in the state of the art and practice of Web-based services, identify emerging research topics, and define the future of Web-based services. All topics regarding Web-based services lifecycle study and management align with the theme of ICWS.
