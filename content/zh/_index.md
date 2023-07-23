@@ -75,6 +75,9 @@ sections:
 
         - **Towards Peer-to-Peer Sharing of Wireless Energy Services**
         {{< youtube d-bdFGk6z4A >}}
+
+        - **Energy Loss Prediction in IoT Energy Services**
+        {{< youtube d-arKnVtVJmpo >}}
     
         **   ** 
         
