@@ -48,7 +48,7 @@ sections:
         - **BA in Engineering**
           - 🏛 [**Chengdu University of Information Technology (China)**](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
 
-        **Publications:**
+        ### Publications:
         {{< spoiler text="📄 [Towards peer-to-peer sharing of wireless energy services](https://link.springer.com/chapter/10.1007/978-3-031-26507-5_38)" >}}
           Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, and Athman Bouguettaya. "Towards peer-to-peer sharing of wireless energy services." *International Conference on Service-Oriented Computing*. Cham: Springer Nature Switzerland, 2022.
         {{< /spoiler >}}
@@ -71,7 +71,7 @@ sections:
           Chongyangzi Teng, Pengwei Yang, and Mengshen Guo. "Techniques in Deep Learning: A Report."
         {{< /spoiler >}}
 
-        **Projects:**
+        ### Projects:
         - **Monitoring Efficiency of IoT Wireless Charging**
         {{< youtube 8cYG6jscivE >}}
 
