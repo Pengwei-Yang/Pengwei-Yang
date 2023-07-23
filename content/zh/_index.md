@@ -127,4 +127,12 @@ sections:
     design:
       columns: '1'
   
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |-
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=IPz9CHURQbIcxY1LcH-h8QSuFwl3DVHDYvYkveXsHqc&cl=ffffff&w=a"></script>      
+    design:
+      columns: '1'
 ---
