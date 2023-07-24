@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Projects
 cms_exclude: true
 #url: https://twitter.com/SCSLab/status/1636213572584763393
 
@@ -11,3 +11,4 @@ image:
   caption: 'Photo by SCSLab'
   filename: ''
 ---
+
