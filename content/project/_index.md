@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Projects
 cms_exclude: true
 #url: https://twitter.com/SCSLab/status/1636213572584763393
 
