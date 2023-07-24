@@ -11,3 +11,4 @@ image:
   caption: 'Photo by SCSLab'
   filename: ''
 ---
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=IPz9CHURQbIcxY1LcH-h8QSuFwl3DVHDYvYkveXsHqc"></script> 
