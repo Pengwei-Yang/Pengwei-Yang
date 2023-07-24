@@ -54,6 +54,9 @@ sections:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
+
+    text: |-
+            <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=IPz9CHURQbIcxY1LcH-h8QSuFwl3DVHDYvYkveXsHqc&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
         
     design:
       columns: '1'
