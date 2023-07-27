@@ -9,7 +9,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Dear visitors, please contact me via the following ways.
+        Dear visitors, you can contact me through messages, emails, or you can start a real-time chat by clicking the icon in the lower right corner.
       # Contact (add or remove contact options as necessary)
       email: pengwei.yang@sydney.edu.au
       phone: +61 450718075
