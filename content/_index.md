@@ -24,7 +24,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'Introductions'
+      title: 'Introduction'
       subtitle: 'Academic Bio'
       text: |-
         Pengwei Yang is a Research Master Student under the supervision of Prof. Athman Bouguettaya in the School of Computer Science at the University of Sydney, with a strong interdisciplinary background in Computer Science and Electronic Information Science. As a researcher in the Sensors, Clouds, and Services Lab at the University of Sydney, Pengwei's work explores various facets of computer science, including Crowdsourcing, Service Computing, Deep Learning, and Trustworthy Machine Learning. 
@@ -118,7 +118,7 @@ sections:
           
   - block: markdown
     content:
-      title: 'Acknowledgements'
+      title: 'Acknowledgementsss'
       subtitle: ''
       text: |-
         Greatly appreciate the support from **Sensors, Clouds, and Services Lab**, **Australian Research Council**, **IEEE Computer Society**, and **Commonwealth Scientific and Industrial Research Organisation**. The statements made herein are solely the responsibility of the author.
