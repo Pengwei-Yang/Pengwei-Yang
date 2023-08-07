@@ -63,7 +63,20 @@ sections:
       subtitle: ''
       text: |-
         <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=IPz9CHURQbIcxY1LcH-h8QSuFwl3DVHDYvYkveXsHqc&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
-        
+        <!-- Brevo Conversations {literal} -->
+        <script>
+            (function(d, w, c) {
+                w.BrevoConversationsID = '64c2603da193dd6a6b6837a4';
+                w[c] = w[c] || function() {
+                    (w[c].q = w[c].q || []).push(arguments);
+                };
+                var s = d.createElement('script');
+                s.async = true;
+                s.src = 'https://conversations-widget.brevo.com/brevo-conversations.js';
+                if (d.head) d.head.appendChild(s);
+            })(document, window, 'BrevoConversations');
+        </script>
+        <!-- /Brevo Conversations {/literal} -->
     design:
       columns: '1'
 ---
