@@ -90,7 +90,7 @@ sections:
   
   - block: collection
     content:
-      title: Top News
+      title: 'Top News'
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
