@@ -23,7 +23,7 @@ bio: 杨朋卫（Pengwei Yang）是悉尼大学传感器、云计算和服务实
 social:
 - icon: acm
   icon_pack: ai
-  link: 'https://dl.acm.org/profile/99660759653'  # For a direct email link, use "mailto:test@example.org".
+  link: https://dl.acm.org/profile/99660759653  # For a direct email link, use "mailto:test@example.org".
 - icon: ieee
   icon_pack: ai
   link: https://ieeexplore.ieee.org/author/37089881653
