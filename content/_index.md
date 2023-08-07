@@ -132,14 +132,7 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title: ''
-      subtitle: ''
-      text: |-
-        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=IPz9CHURQbIcxY1LcH-h8QSuFwl3DVHDYvYkveXsHqc"></script>
-    design:
-      columns: '1'          
+       
 
 
 ---
