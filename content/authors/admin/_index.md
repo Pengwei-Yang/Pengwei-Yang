@@ -14,7 +14,7 @@ organizations:
   url: "http://scslab.net/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Pengwei Yang is a research associate in the Sensors, Clouds, and Services Lab at the University of Sydney. His research interests include Crowdsourcing, Service-oriented Computing, Deep Learning, and Trustworthy Machine Learning.
+bio: Pengwei Yang is a Research Associate in the Sensors, Clouds, and Services Lab at the University of Sydney. His research interests include Crowdsourcing, Service-oriented Computing, Deep Learning, and Trustworthy Machine Learning.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
