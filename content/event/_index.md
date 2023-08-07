@@ -11,5 +11,4 @@ image:
   caption: 'Photo by SCSLab'
   filename: ''
 ---
-<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
-<div class="commonninja_component pid-fe231b5a-2d76-46c0-89b2-22c4bc0a6cb6"></div>
+
