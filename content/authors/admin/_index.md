@@ -21,7 +21,12 @@ bio: Pengwei Yang is a Research Associate in the Sensors, Clouds, and Services L
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-
+- icon: acm
+  icon_pack: ai
+  link: https://dl.acm.org/profile/99660759653
+- icon: ieee
+  icon_pack: ai
+  link: https://ieeexplore.ieee.org/author/37089881653
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Pengwei-Yang
