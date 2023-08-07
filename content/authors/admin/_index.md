@@ -6,7 +6,7 @@ title: Pengwei Yang
 superuser: true
 
 # Role/position
-role: Research Master Student at SCSLab (USYD)
+role: Research Associate at SCSLab (USYD)
 
 # Organizations/Affiliations
 organizations:
