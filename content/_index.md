@@ -115,7 +115,31 @@ sections:
       view: compact
       columns: '1'
 
-          
+  - block: markdown
+    content:
+      title: 'Acknowledgements'
+      subtitle: ''
+      text: |-
+        Greatly appreciate the support from **Sensors, Clouds, and Services Lab**, **Australian Research Council**, **IEEE Computer Society**, and **Commonwealth Scientific and Industrial Research Organisation**. The statements made herein are solely the responsibility of the author.
+
+        <script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+        <div class="commonninja_component pid-12c0f14f-4e06-400d-b55d-f755bdd5351b"></div>      
+    design:
+      columns: '1'
+  - block: tag_cloud
+    content:
+      title: 
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |-
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=IPz9CHURQbIcxY1LcH-h8QSuFwl3DVHDYvYkveXsHqc"></script>
+    design:
+      columns: '1'          
 
 
 ---
