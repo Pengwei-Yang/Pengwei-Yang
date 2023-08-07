@@ -6,7 +6,7 @@ title: 杨朋卫
 superuser: true
 
 # Role/position
-role: 悉尼大学 传感、云计算与服务实验室硕士研究生
+role: 悉尼大学 传感、云计算与服务实验室助理研究员
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: "http://scslab.net/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 杨朋卫（Pengwei Yang）是悉尼大学计算机科学学院的硕士研究生。他目前在悉尼大学的传感器、云计算和服务实验室从事物联网云计算项目研究。他的研究兴趣包括众包、面向服务计算、深度学习与可信赖机器学习。
+bio: 杨朋卫（Pengwei Yang）是悉尼大学传感器、云计算和服务实验室的助理研究员，目前从事物联网云计算项目研究。他的研究兴趣包括众包、面向服务计算、深度学习与可信赖机器学习。
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
