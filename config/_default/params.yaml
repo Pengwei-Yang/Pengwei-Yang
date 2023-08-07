@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/Pengwei-Yang/Pengwei-Yang/'
+    url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: main
   avatar:
