@@ -131,7 +131,28 @@ sections:
     design:
       columns: '1'
 
-
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |-
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=IPz9CHURQbIcxY1LcH-h8QSuFwl3DVHDYvYkveXsHqc"></script>
+        <!-- Brevo Conversations {literal} -->
+        <script>
+            (function(d, w, c) {
+                w.BrevoConversationsID = '64c2603da193dd6a6b6837a4';
+                w[c] = w[c] || function() {
+                    (w[c].q = w[c].q || []).push(arguments);
+                };
+                var s = d.createElement('script');
+                s.async = true;
+                s.src = 'https://conversations-widget.brevo.com/brevo-conversations.js';
+                if (d.head) d.head.appendChild(s);
+            })(document, window, 'BrevoConversations');
+        </script>
+        <!-- /Brevo Conversations {/literal} -->
+    design:
+      columns: '1'       
    
 
 
