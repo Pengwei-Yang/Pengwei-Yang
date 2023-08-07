@@ -1,44 +1,38 @@
 ---
 # Display name
-title: Pengwei Yang
+title: Alice Wu (吳恩達)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Research Associate at SCSLab (USYD)
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Sensors, Clouds, and Services Lab
-  url: "http://scslab.net/"
+- name: Stanford University
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Pengwei Yang is a Research Associate in the Sensors, Clouds, and Services Lab at the University of Sydney. His research interests include Crowdsourcing, Service-oriented Computing, Deep Learning, and Trustworthy Machine Learning.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: acm
-  icon_pack: ai
-  link: https://dl.acm.org/profile/99660759653
-- icon: ieee
-  icon_pack: ai
-  link: https://ieeexplore.ieee.org/author/37089881653
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Pengwei-Yang
+- icon: envelope
+  icon_pack: fas
+  link: '/contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=GLs5fDsAAAAJ
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-7961-2381
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/Pengwei-Yang
+  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
