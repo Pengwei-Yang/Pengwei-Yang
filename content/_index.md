@@ -27,7 +27,7 @@ sections:
       title: 'Introduction'
       subtitle: 'Academic Bio'
       text: |-
-        Pengwei Yang is a Research Master Student under the supervision of Prof. Athman Bouguettaya in the School of Computer Science at the University of Sydney, with a strong interdisciplinary background in Computer Science and Electronic Information Science. As a researcher in the Sensors, Clouds, and Services Lab at the University of Sydney, Pengwei's work explores various facets of computer science, including Crowdsourcing, Service Computing, Deep Learning, and Trustworthy Machine Learning. 
+        Pengwei Yang is a research associate at Pengwei Yang is a Research Master Student under the supervision of Prof. Athman Bouguettaya in the School of Computer Science at the University of Sydney, with a strong interdisciplinary background in Computer Science and Electronic Information Science. As a researcher in the Sensors, Clouds, and Services Lab at the University of Sydney, Pengwei's work explores various facets of computer science, including Crowdsourcing, Service Computing, Deep Learning, and Trustworthy Machine Learning. 
         
         Pengwei Yang's commitment to research has been evident in his contributions to the field. He has successfully published a demo paper at the International Conference on Service-Oriented Computing (ICSOC, Core A) and another demo paper at the IEEE International Conference on Pervasive Computing and Communications (PerCom, Core A*). Furthermore, Pengwei has a full research paper accepted by the IEEE International Conference on Web Services (ICWS, Core A), which is a significant achievement in his field of research. He is currently planning to expand upon his research and submit an extended version to the IEEE Transactions on Services Computing (TSC), a prestigious journal in the area of service computing. Pengwei Yang's academic journey reflects his passion for computer science and a dedication to making an impact in his field.
         
@@ -116,31 +116,7 @@ sections:
       columns: '1'
 
           
-  - block: markdown
-    content:
-      title: 'Acknowledgements'
-      subtitle: ''
-      text: |-
-        Greatly appreciate the support from **Sensors, Clouds, and Services Lab**, **Australian Research Council**, **IEEE Computer Society**, and **Commonwealth Scientific and Industrial Research Organisation**. The statements made herein are solely the responsibility of the author.
 
-        <script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
-        <div class="commonninja_component pid-12c0f14f-4e06-400d-b55d-f755bdd5351b"></div>      
-    design:
-      columns: '1'
-  - block: tag_cloud
-    content:
-      title: 
-    design:
-      columns: '1'
-
-  - block: markdown
-    content:
-      title: ''
-      subtitle: ''
-      text: |-
-        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=IPz9CHURQbIcxY1LcH-h8QSuFwl3DVHDYvYkveXsHqc"></script>
-    design:
-      columns: '1'
 
 ---
 
