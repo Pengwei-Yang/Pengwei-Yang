@@ -42,9 +42,9 @@ sections:
       text: |-
     
         ### Education:
-        - **MA in Information Technology (Research Pathway)**
+        - **M.I.T. in Information Technology (Research Pathway)**
           - 🏛 [**The University of Sydney (Australia)**](https://www.sydney.edu.au/)
-        - **BA in Engineering**
+        - **B.Eng in Engineering**
           - 🏛 [**Chengdu University of Information Technology (China)**](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
 
         ### Publications:
