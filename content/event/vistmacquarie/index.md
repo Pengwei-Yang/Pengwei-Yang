@@ -1,6 +1,6 @@
 ---
 commentable: true
-abstract: Invited by Prof. Michael Sheng and Dr. Adnan Mahmood, I visited Macquarie University. During the visit, I discussed academic matters with the Dr. Adnan and toured the beautiful campus.
+abstract: Invited by [**Prof. Michael Sheng**](http://web.science.mq.edu.au/~qsheng/) and [**Dr. Adnan Mahmood**](https://researchers.mq.edu.au/en/persons/adnan-mahmood), I visited Macquarie University. During the visit, I discussed academic matters with the Dr. Adnan and toured the beautiful campus.
 address:
   city: Sydney
   country: Australia
