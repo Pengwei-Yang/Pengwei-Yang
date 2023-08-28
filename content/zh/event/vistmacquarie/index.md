@@ -1,6 +1,6 @@
 ---
 commentable: true
-abstract: 应 Michael Sheng 教授和 Adnan Mahmood 博士的邀请，我访问了麦考瑞大学。访问期间，我与 Adnan 博士讨论了学术问题，并参观了美丽的校园。
+abstract: 应 [**Michael Sheng 教授**](http://web.science.mq.edu.au/~qsheng/)和 [**Adnan Mahmood 博士**](https://researchers.mq.edu.au/en/persons/adnan-mahmood)的邀请，我访问了麦考瑞大学。访问期间，我与 Adnan 博士讨论了学术问题，并参观了美丽的校园。
 address:
   city: 悉尼
   country: 澳大利亚
