@@ -1,32 +1,23 @@
 ---
 commentable: true
-abstract: The seminar covers various topics including utilizing generative models for filling missing values in time series data, employing attention mechanisms for video summarization and recommendation, and a novel optimization approach for Swin Transformers, among others.
+abstract: Invited by Prof. Michael Sheng and Dr. Adnan Mahmood, I visited Macquarie University. During the visit, I discussed academic matters with the Dr. Adnan and toured the beautiful campus. Dr. Adnan Mahmood is a Lecturer in Computing – IoT and Networking in School of Computing, Macquarie University, Australia. Dr. Mahmood's research interests include, but are not limited to, the Internet of Things, Software Defined Networks, Intelligent Transportation Systems, Trust Management, Privacy Preservation, and the Next Generation Heterogeneous Wireless Networks. As of date, Dr. Mahmood has authored 50+ Research Papers, including Demo Papers, in leading Journals and Conferences of repute, including but not limited to, ACM Computing Surveys, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Network and Service Management, ACM Transactions on Sensor Networks, Scientific Reports (a part of Nature Portfolio), ACM WSDM, ACM SenSys, ACM / IEEE IPSN, and ICSOC. Dr. Mahmood also possesses a Research Patent to his credit too.
 address:
   city: Sydney
   country: Australia
-  postcode: "2006"
+  postcode: "2113"
 all_day: false
 authors: []
-date: "2023-05-26T18:00:00Z"
-date_end: "2023-05-26T20:00:00Z"
-event: Deep learning workshop
+date: "2023-08-28T11:00:00Z"
+date_end: "2023-08-28T14:00:00Z"
+event: Academic visit.
 featured: false
 image:
   caption: 'Image credit: [**SCSLab**](http://scslab.net/)'
   focal_point: Right
-location: The University of Sydney
+location: Macquaries University
 math: true
 publishDate: "2023-01-01T00:00:00Z"
-summary: Participating in a deep learning symposium, engaging in in-depth discussions with fellow students interested in deep learning, exploring cutting-edge deep learning techniques, and taking a group photo with the deep learning project mentor, [**Prof. Chang Xu**](http://changxu.xyz/).
+summary: Invited by [**Prof. Michael Sheng**](http://web.science.mq.edu.au/~qsheng/) and [**Dr. Adnan Mahmood**](https://researchers.mq.edu.au/en/persons/adnan-mahmood), I visited Macquarie University. During the visit, I discussed academic matters with Dr. Adnan and toured the beautiful campus.
 tags: []
-title: Participating in a deep learning workshop.
+title: Visiting Macquarie University.
 ---
-The workshop covers the following topics in detail:
-
-- Utilizing generative models for filling missing values in time series data: This topic explores the application of generative models, such as autoencoders or variational autoencoders, to fill the gaps or missing values in time series data. These models are trained to learn the underlying patterns and dependencies in the data, allowing them to generate plausible values for the missing entries.
-
-- Employing attention mechanisms for video summarization and recommendation: This topic focuses on using attention mechanisms, a key component in deep learning models, to improve video summarization and recommendation systems. Attention mechanisms enable the model to focus on important video segments or frames, capturing the most relevant information for summarization and personalized recommendations.
-
-- Novel optimization approach for Swin Transformers: Swin Transformers are a recent advancement in the field of computer vision, known for their ability to efficiently process image data with large receptive fields. This topic presents a new optimization approach specifically designed for Swin Transformers, aiming to enhance their performance in tasks such as image classification or object detection. The approach involve architectural modifications, training techniques, and optimization algorithms tailored for Swin Transformers.
-
-These are just a few of the topics covered in the workshop, providing attendees with insights into the latest advancements and techniques in the field of deep learning.
