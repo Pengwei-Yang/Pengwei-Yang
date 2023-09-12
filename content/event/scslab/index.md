@@ -1,15 +1,15 @@
 ---
 commentable: true
-abstract: The seminar covers various topics including utilizing generative models for filling missing values in time series data, employing attention mechanisms for video summarization and recommendation, and a novel optimization approach for Swin Transformers, among others.
+abstract: Successfully completed the master's research work and started a new graduate career as a Research Assistant (RA) at the SCSLab.
 address:
   city: Sydney
   country: Australia
   postcode: "2006"
 all_day: false
 authors: []
-date: "2023-05-26T18:00:00Z"
-date_end: "2023-05-26T20:00:00Z"
-event: Deep learning workshop
+date: "2023-09-13T18:00:00Z"
+date_end: "2023-09-13T20:00:00Z"
+event: Started a new graduate career as a RA at the SCSLab
 featured: false
 image:
   caption: 'Image credit: [**SCSLab**](http://scslab.net/)'
@@ -17,16 +17,12 @@ image:
 location: The University of Sydney
 math: true
 publishDate: "2023-01-01T00:00:00Z"
-summary: Participating in a deep learning symposium, engaging in in-depth discussions with fellow students interested in deep learning, exploring cutting-edge deep learning techniques, and taking a group photo with the deep learning project mentor, [**Prof. Chang Xu**](http://changxu.xyz/).
+summary: Successfully completed the master's research work and started a new graduate career as a Research Assistant (RA) at the SCSLab.
 tags: []
-title: Participating in a deep learning workshop.
+title: Started a new graduate career as a RA at the SCSLab.
 ---
-The workshop covers the following topics in detail:
+I would like to express my profound gratitude to [**Prof. Athman Bouguettaya**](http://scslab.net/our-team/athman-bouguettaya/), whose continuous support and mentoring during the course of my Master's Degree have been instrumental in my success. His expert guidance and supervision have been invaluable in shaping my development as a tenacious, committed, and fastidious researcher. Additionally, I would like to extend my appreciation to the esteemed members of the Sensors, Clouds, and Services Laboratory for their invaluable assistance and consistent feedback during the pursuit of my Master's Degree.
 
-- Utilizing generative models for filling missing values in time series data: This topic explores the application of generative models, such as autoencoders or variational autoencoders, to fill the gaps or missing values in time series data. These models are trained to learn the underlying patterns and dependencies in the data, allowing them to generate plausible values for the missing entries.
+Special thanks to [**Dr. Amani Abusafia**](http://scslab.net/our-team/amani-abusafia/) and [**Dr. Abdallah Lakhdari**](http://scslab.net/our-team/abdallah-lakhdari/), whose exceptional expertise greatly contributed to the refinement of my conference papers and thesis. Furthermore, my deepest gratitude is owed to every teacher who has influenced my life at various stages, for they have served as wellsprings of inspiration and support.
 
-- Employing attention mechanisms for video summarization and recommendation: This topic focuses on using attention mechanisms, a key component in deep learning models, to improve video summarization and recommendation systems. Attention mechanisms enable the model to focus on important video segments or frames, capturing the most relevant information for summarization and personalized recommendations.
-
-- Novel optimization approach for Swin Transformers: Swin Transformers are a recent advancement in the field of computer vision, known for their ability to efficiently process image data with large receptive fields. This topic presents a new optimization approach specifically designed for Swin Transformers, aiming to enhance their performance in tasks such as image classification or object detection. The approach involve architectural modifications, training techniques, and optimization algorithms tailored for Swin Transformers.
-
-These are just a few of the topics covered in the workshop, providing attendees with insights into the latest advancements and techniques in the field of deep learning.
+I must also convey my heartfelt thanks to my family, whose love, support, and encouragement have been unwavering. My father, his optimism and fortitude have served as a constant source of inspiration. My mother, her comforting presence has provided solace and strength throughout my life. Lastly, I wish to extend my sincerest appreciation to my dearest friends, whose companionship and support over the years have been a cherished constant.
