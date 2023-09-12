@@ -1,6 +1,6 @@
 ---
 commentable: true
-abstract: 成功完成硕士研究工作，并以助理研究员的身份在SCSLab开始新的学术生涯。
+abstract: 成功完成硕士研究工作，并以助理研究员的身份在SCSLab开始新的学术研究生涯。
 address:
   city: 悉尼
   country: 澳大利亚
@@ -17,9 +17,9 @@ image:
 location: 悉尼大学
 math: true
 publishDate: "2023-01-01T00:00:00Z"
-summary: 成功完成硕士研究工作，并以助理研究员（RA）的身份在SCSLab开始新的学术生涯。感谢[**Athman Bouguettaya**](http://scslab.net/our-team/athman-bouguettaya/)教授，[**Amani Abusafia博士**](http://scslab.net/our-team/amani-abusafia/)与[**Abdallah Lakhdari博士**](http://scslab.net/our-team/abdallah-lakhdari/)在我硕士研究期间提供的支持。
+summary: 成功完成硕士研究工作，并以助理研究员（RA）的身份在SCSLab开始新的学术研究生涯。感谢[**Athman Bouguettaya**](http://scslab.net/our-team/athman-bouguettaya/)教授，[**Amani Abusafia博士**](http://scslab.net/our-team/amani-abusafia/)与[**Abdallah Lakhdari博士**](http://scslab.net/our-team/abdallah-lakhdari/)在我硕士研究期间提供的支持。
 tags: []
-title: 以助理研究员的身份在SCSLab开始新的学术生涯
+title: 以助理研究员的身份在SCSLab开始新的学术研究生涯
 ---
 我想对[**Athman Bouguettaya教授**](http://scslab.net/our-team/athman-bouguettaya/) 表达我深深的感激之情。在我的硕士学位课程中，他的持续支持和指导对我的成功起了至关重要的作用。他专业的指导和监督对于塑造我成为一个坚韧、敬业和一丝不苟的研究员具有无可估量的价值。此外，我还要感谢传感器、云计算和服务实验室的成员，在我攻读硕士学位期间提供的宝贵帮助和持续反馈。
 
