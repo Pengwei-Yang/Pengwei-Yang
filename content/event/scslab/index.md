@@ -1,6 +1,6 @@
 ---
 commentable: true
-abstract: Successfully completed the master's research work and started a new graduate career as a Research Assistant (RA) at the SCSLab.
+abstract: Successfully completed the master's research work and started a new graduate career as a Research Associate (RA) at the SCSLab.
 address:
   city: Sydney
   country: Australia
@@ -17,7 +17,7 @@ image:
 location: The University of Sydney
 math: true
 publishDate: "2023-01-01T00:00:00Z"
-summary: Successfully completed the master's research work and started a new graduate career as a Research Assistant (RA) at the SCSLab.
+summary: Successfully completed the master's research work and started a new graduate career as a Research Associate (RA) at the SCSLab.
 tags: []
 title: Started a new graduate career as a RA at the SCSLab.
 ---
