@@ -17,7 +17,7 @@ image:
 location: The University of Sydney
 math: true
 publishDate: "2023-01-01T00:00:00Z"
-summary: Successfully completed the master's research work and started a new graduate career as a Research Associate (RA) at the SCSLab.
+summary: Successfully completed the master's research work and started a new graduate career as a Research Associate (RA) at the SCSLab. Much appretiate to [**Prof. Athman Bouguettaya**](http://scslab.net/our-team/athman-bouguettaya/), [**Dr. Amani Abusafia**](http://scslab.net/our-team/amani-abusafia/), and [**Dr. Abdallah Lakhdari**](http://scslab.net/our-team/abdallah-lakhdari/).
 tags: []
 title: Started a new graduate career as a RA at the SCSLab.
 ---
