@@ -53,7 +53,7 @@ sections:
         {{< spoiler text="📄 [**Monitoring efficiency of iot wireless charging**](https://ieeexplore.ieee.org/abstract/document/10150276)" >}}
           Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, and Athman Bouguettaya. "Monitoring efficiency of iot wireless charging." *2023 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)*. IEEE, 2023.
         {{< /spoiler >}}
-        {{< spoiler text="📄 [**Energy Loss Prediction in IoT Energy Services**](https://arxiv.org/abs/2305.10238)" >}}
+        {{< spoiler text="📄 [**Energy Loss Prediction in IoT Energy Services**](https://ieeexplore.ieee.org/document/10248251)" >}}
           Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, and Athman Bouguettaya. "Energy Loss Prediction in IoT Energy Services." *2023 IEEE International Conference on Web Services (ICWS)*. IEEE, 2023.
         {{< /spoiler >}}
         {{< spoiler text="📄 [**Establishment of Neural Networks Robust to Label Noise**](https://arxiv.org/abs/2211.15279v3)" >}}
