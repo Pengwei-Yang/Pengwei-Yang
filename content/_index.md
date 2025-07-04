@@ -43,7 +43,7 @@ sections:
           - 🏛 [**University of Electronic Science and Technology of China**](https://en.uestc.edu.cn/)
         - **M.I.T. (Research Pathway)**
           - 🏛 [**The University of Sydney (Australia)**](https://www.sydney.edu.au/)
-        - **B.Eng**
+        - **B.Eng.**
           - 🏛 [**Chengdu University of Information Technology (China)**](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
 
         ### Publications:
