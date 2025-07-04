@@ -25,7 +25,7 @@ sections:
   - block: markdown
     content:
       title: 'Introduction'
-      subtitle: 'Academic Bio'
+      subtitle: ''
       text: |-
               Hi there!👋 I am a Ph.D. student [@University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before, I was an AI engineer [@East Hope Group (China)](http://www.easthope.cn/). My research centers on time-series analysis and multimodal learning.
               
