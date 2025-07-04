@@ -39,10 +39,10 @@ sections:
       text: |-
     
         ### Education:
-        - **Ph.D.**
-          - 🏛 [**The University of Sydney (Australia)**](https://en.uestc.edu.cn/)
+        - **Ph.D. (In Progress)**
+          - 🏛 [**University of Electronic Science and Technology of China**](https://en.uestc.edu.cn/)
         - **M.I.T. (Research Pathway)**
-          - 🏛 [**University of Electronic Science and Technology of China**](https://www.sydney.edu.au/)
+          - 🏛 [**The University of Sydney (Australia)**](https://www.sydney.edu.au/)
         - **B.Eng**
           - 🏛 [**Chengdu University of Information Technology (China)**](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
 
