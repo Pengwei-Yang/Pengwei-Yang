@@ -27,11 +27,7 @@ sections:
       title: 'Introduction'
       subtitle: 'Academic Bio'
       text: |-
-              I am a Ph.D. student @[University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before, I was an AI engineer @[East Hope Group (China)](http://www.easthope.cn/). I got my master's degree @[the University of Sydney](https://www.sydney.edu.au/).
-              
-              - Background: Research Master Student under Prof. Athman Bouguettaya with a strong interdisciplinary background in Computer Science and Electronic Information Science.
-              - Research Focus: Deep Learning, Time-series, Multimodal, Trustworthy Machine Learning, Industrial AI algorithms.
-              - Industry Experience: AI algorithm development across various sectors (electrolytic aluminum, polysilicon, industrial silicon, equipment diagnostics) including time series prediction, intelligent detection, optimization algorithms, and fault diagnosis.
+              I am a Ph.D. student @[University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before, I was an AI engineer @[East Hope Group (China)](http://www.easthope.cn/). I got my Master's degree @[the University of Sydney](https://www.sydney.edu.au/).
               
               I am always open to interesting research collaborations and discussions. Feel free to connect with me! [Click](https://www.pengweiyang.com/) to my website.
         
