@@ -10,8 +10,8 @@ role: Ph.D. student @UESTC
 
 # Organizations/Affiliations
 organizations:
-- name: University of Electronic Science and Technology of China
-  url: "https://en.uestc.edu.cn/"
+- name: the Center for Future Media
+  url: "https://cfm.uestc.edu.cn/index"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Pengwei Yang is a Ph.D. student at the Center for Future Media and the School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC). His research centers on time-series analysis and multimodal learning.
