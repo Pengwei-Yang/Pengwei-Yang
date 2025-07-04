@@ -27,7 +27,7 @@ sections:
       title: 'Introduction'
       subtitle: 'Academic Bio'
       text: |-
-              Hi there!I am a Ph.D. student [@University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before, I was an AI engineer [@East Hope Group (China)](http://www.easthope.cn/). My research centers on time-series analysis and multimodal learning.
+              Hi there!👋 I am a Ph.D. student [@University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before, I was an AI engineer [@East Hope Group (China)](http://www.easthope.cn/). My research centers on time-series analysis and multimodal learning.
               
               I am always open to interesting research collaborations and discussions. Feel free to connect with me! 
         
@@ -39,8 +39,10 @@ sections:
       text: |-
     
         ### Education:
+        - **Ph.D.**
+          - 🏛 [**The University of Sydney (Australia)**](https://en.uestc.edu.cn/)
         - **M.I.T. (Research Pathway)**
-          - 🏛 [**The University of Sydney (Australia)**](https://www.sydney.edu.au/)
+          - 🏛 [**University of Electronic Science and Technology of China**](https://www.sydney.edu.au/)
         - **B.Eng**
           - 🏛 [**Chengdu University of Information Technology (China)**](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
 
