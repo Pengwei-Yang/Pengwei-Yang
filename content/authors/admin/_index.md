@@ -6,15 +6,15 @@ title: Pengwei Yang
 superuser: true
 
 # Role/position
-role: Research Associate at SCSLab (USYD)
+role: Ph.D. student @UESTC
 
 # Organizations/Affiliations
 organizations:
-- name: Sensors, Clouds, and Services Lab
-  url: "http://scslab.net/"
+- name: University of Electronic Science and Technology of China
+  url: "https://en.uestc.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Pengwei Yang is a Research Associate in the Sensors, Clouds, and Services Lab at the University of Sydney. His research interests include Crowdsourcing, Service-oriented Computing, Deep Learning, and Trustworthy Machine Learning.
+bio: Pengwei Yang is a Ph.D. student at the Center for Future Media and the School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC). His research centers on time-series analysis and multimodal learning.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
