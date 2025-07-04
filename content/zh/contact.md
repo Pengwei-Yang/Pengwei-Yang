@@ -11,7 +11,7 @@ sections:
       text: |-
         您可以通过留言、邮件或等方式联系我，或点击右下角图标开启实时聊天：
       # Contact (add or remove contact options as necessary)
-      email: pengwei.yang@sydney.edu.au
+      email: krysertim@gmail.com
       phone: +61 450718075
       appointment_url: 'https://calendly.com'
       address: 
