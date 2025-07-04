@@ -15,7 +15,7 @@ sections:
       phone: +61 450718075
       appointment_url: 'https://calendly.com'
       address: 
-        street: 清水河校区：成都市高新区（西区）西源大道2006号
+        street: 电子科技大学清水河校区：成都市高新区（西区）西源大道2006号
         city: 成都
         region: 四川
         postcode: '611731'
