@@ -27,7 +27,7 @@ sections:
       title: 'Introduction'
       subtitle: ''
       text: |-
-              Hi there!👋 I am a Ph.D. student [@University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before, I was an AI engineer [@East Hope Group (China)](http://www.easthope.cn/). My research centers on time-series analysis and multimodal learning.
+              Hi there!👋 I am a Ph.D. student at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Previously, I worked as an Algorithm Engineer at [East Hope Group (China)](http://www.easthope.cn/) and as a Research Associate in the [Sensors, Clouds, and Services Laboratory (SCSLab)](http://scslab.net/) at the University of Sydney. My research centers on time-series analysis and multimodal learning.
               
               I am always open to interesting research collaborations and discussions. Feel free to connect with me! 
         
