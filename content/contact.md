@@ -11,20 +11,20 @@ sections:
       text: |-
         Dear visitors, you can contact me through messages, emails, or you can start a real-time chat by clicking the icon in the lower right corner.
       # Contact (add or remove contact options as necessary)
-      email: pengwei.yang@sydney.edu.au
+      email: krysertim@gmail.com
       phone: +61 450718075
       appointment_url: 'https://calendly.com'
       address: 
-        street: Computer Science Building J12, the University of Sydney
-        city: Sydney
-        region: NSW
-        postcode: '2006'
-        country: Australia
-        country_code: AU
-      directions: SCSLab on Floor 4
+        street: Qingshuihe Campus:No.2006, Xiyuan Ave, West Hi-Tech Zone
+        city: Chengdu
+        region: Sichuan
+        postcode: '611731'
+        country: P.R.China
+        country_code: CN
+      directions: Laboratory of Intelligent Collaborative Computing
       office_hours:
-        - 'Saturday 10:00 to 13:00'
-        - 'Sunday 09:00 to 10:00'
+        - 'Workdays 08:30 to 18:00'
+        - 'Others 10:00 to 16:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
