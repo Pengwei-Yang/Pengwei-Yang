@@ -27,9 +27,9 @@ sections:
       title: 'Introduction'
       subtitle: 'Academic Bio'
       text: |-
-              I am a Ph.D. student @[University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before, I was an AI engineer @[East Hope Group (China)](http://www.easthope.cn/). I got my Master's degree @[the University of Sydney](https://www.sydney.edu.au/).
+              Hi there!I am a Ph.D. student [@University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before, I was an AI engineer [@East Hope Group (China)](http://www.easthope.cn/). My research centers on time-series analysis and multimodal learning.
               
-              I am always open to interesting research collaborations and discussions. Feel free to connect with me! [Click](https://www.pengweiyang.com/) to my website.
+              I am always open to interesting research collaborations and discussions. Feel free to connect with me! 
         
     design:
       columns: '1'
