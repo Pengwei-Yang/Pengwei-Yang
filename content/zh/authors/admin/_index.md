@@ -6,15 +6,15 @@ title: 杨朋卫
 superuser: true
 
 # Role/position
-role: 悉尼大学 传感、云计算与服务实验室助理研究员
+role: 电子科技大学 博士研究生
 
 # Organizations/Affiliations
 organizations:
-- name: 传感、云计算与服务实验室
-  url: "http://scslab.net/"
+- name: 未来媒体研究中心
+  url: "https://cfm.uestc.edu.cn/index"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 杨朋卫（Pengwei Yang）是悉尼大学传感器、云计算和服务实验室的助理研究员，目前从事物联网云计算项目研究。他的研究兴趣包括众包、面向服务计算、深度学习与可信赖机器学习。
+bio: 杨朋卫（Pengwei Yang）是电子科技大学计算机科学与工程学院未来媒体研究中心博士研究生，目前从事时间序列与多模态研究。
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
