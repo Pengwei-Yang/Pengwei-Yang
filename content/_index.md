@@ -27,13 +27,13 @@ sections:
       title: 'Introduction'
       subtitle: 'Academic Bio'
       text: |-
-        Pengwei Yang is a Research Associate in the Sensors, Clouds, and Services Lab at the University of Sydney. Pengwei Yang was a Research Master Student under the supervision of Prof. Athman Bouguettaya in the School of Computer Science at the University of Sydney, with a strong interdisciplinary background in Computer Science and Electronic Information Science. As a researcher in the Sensors, Clouds, and Services Lab at the University of Sydney, Pengwei's work explores various facets of computer science, including Crowdsourcing, Service Computing, Deep Learning, and Trustworthy Machine Learning. 
-        
-        Pengwei Yang's commitment to research has been evident in his contributions to the field. He has successfully published a demo paper at the International Conference on Service-Oriented Computing (ICSOC, Core A) and another demo paper at the IEEE International Conference on Pervasive Computing and Communications (PerCom, Core A*). Furthermore, Pengwei has a full research paper accepted by the IEEE International Conference on Web Services (ICWS, Core A), which is a significant achievement in his field of research. He is currently planning to expand upon his research and submit an extended version to the IEEE Transactions on Services Computing (TSC), a prestigious journal in the area of service computing. Pengwei Yang's academic journey reflects his passion for computer science and a dedication to making an impact in his field.
-        
-        **Research Interests:** Service-oriented Computing, IoT, Natural Language Processing, Deep Learning, Trustworthy Machine Learning
-
-        **Advisor Bio:** Prof. Athman Bouguettaya is a distinguished academic in the field of computer science. He is Professor and former Head of School of Computer Science at The University of Sydney, NSW, Australia. His impressive accomplishments as a scholar and researcher have garnered him various prestigious awards and designations, such as IEEE Fellow, IEEE Computer Society Distinguished Scientist, ACM Distinguished Scientist, ACM Distinguished Speaker, and WISE Fellow. He is serving as the Vice-Chair of the 2023 IEEE Computer Society Fellow Evaluating Committee.
+              I am a Ph.D. student @[University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before, I was an AI engineer @[East Hope Group (China)](http://www.easthope.cn/). I got my master's degree @[the University of Sydney](https://www.sydney.edu.au/).
+              
+              - Background: Research Master Student under Prof. Athman Bouguettaya with a strong interdisciplinary background in Computer Science and Electronic Information Science.
+              - Research Focus: Deep Learning, Time-series, Multimodal, Trustworthy Machine Learning, Industrial AI algorithms.
+              - Industry Experience: AI algorithm development across various sectors (electrolytic aluminum, polysilicon, industrial silicon, equipment diagnostics) including time series prediction, intelligent detection, optimization algorithms, and fault diagnosis.
+              
+              I am always open to interesting research collaborations and discussions. Feel free to connect with me! [Click](https://www.pengweiyang.com/) to my website.
         
     design:
       columns: '1'
