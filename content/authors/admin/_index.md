@@ -10,7 +10,7 @@ role: Ph.D. student @UESTC
 
 # Organizations/Affiliations
 organizations:
-- name: the Center for Future Media
+- name: Center for Future Media
   url: "https://cfm.uestc.edu.cn/index"
 
 # Short bio (displayed in user profile at end of posts)
