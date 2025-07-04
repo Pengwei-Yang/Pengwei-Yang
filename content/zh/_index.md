@@ -26,7 +26,7 @@ sections:
     content:
       title: '学术简历'
       text: |-
-              大家好！我是一名博士研究生，目前就读于 [电子科技大学](https://en.uestc.edu.cn/)。 之前在 [东方希望集团](http://www.easthope.cn/)担任算法工程师。 硕士毕业于 [悉尼大学](https://www.sydney.edu.au/)。研究方向为时间序列和多模态。
+              大家好！我是一名博士研究生，目前就读于 [电子科技大学](https://en.uestc.edu.cn/)。 之前在 [东方希望集团](http://www.easthope.cn/)担任算法工程师。研究方向为时间序列和多模态。
               
               我热衷于接受一切有趣的研究合作与讨论。欢迎随时联系我！   
     design:
