@@ -1,8 +1,8 @@
 # Hi there 👋
-I am an AI engineer working in [East Hope Group (China)](http://www.easthope.cn/). Before, I was a researcher from [Sensors, Clouds, and Services Lab](http://scslab.net/) at the University of Sydney.
+I am a Ph.D. student @[University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before, I was an AI engineer @[East Hope Group (China)](http://www.easthope.cn/). 
 
 - Background: Research Master Student under Prof. Athman Bouguettaya with a strong interdisciplinary background in Computer Science and Electronic Information Science.
-- Research Focus: Deep Learning, Trustworthy Machine Learning, Industrial AI algorithms.
+- Research Focus: Deep Learning, Time-series, Multimodal, Trustworthy Machine Learning, Industrial AI algorithms.
 - Publications: Demo papers at ICSOC (Core A) and PerCom (Core A*), and a full research paper at ICWS (Core A).
 - Industry Experience: AI algorithm development across various sectors (electrolytic aluminum, polysilicon, industrial silicon, equipment diagnostics) including time series prediction, intelligent detection, optimization algorithms, and fault diagnosis.
 
