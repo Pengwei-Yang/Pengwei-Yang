@@ -15,21 +15,21 @@ sections:
       phone: +61 450718075
       appointment_url: 'https://calendly.com'
       address: 
-        street: 悉尼大学 计算机科学楼 J12
-        city: 悉尼
-        region: 新南威尔士
-        postcode: '2006'
-        country: 澳大利亚
-        country_code: AU
-      directions: 4楼 传感、云计算与服务实验室
+        street: 清水河校区：成都市高新区（西区）西源大道2006号
+        city: 成都
+        region: 四川
+        postcode: '611731'
+        country: 中华人民共和国
+        country_code: CN
+      directions: 智能计算研究院
       office_hours:
-        - '星期六 10:00 to 13:00'
-        - '星期天 09:00 to 10:00'
+        - '工作日 08:30 to 18:00'
+        - '其它 10:00 to 16:00'
       contact_links:
       
       coordinates:
-          latitude: '-33.8882'
-          longitude: '151.1941'
+          latitude: '30.7479744'
+          longitude: '103.9213838'
 
       # Automatically link email and phone or display as text?
       autolink: true
