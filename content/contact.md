@@ -15,7 +15,7 @@ sections:
       phone: +61 450718075
       appointment_url: 'https://calendly.com'
       address: 
-        street: Qingshuihe Campus:No.2006, Xiyuan Ave, West Hi-Tech Zone
+        street: University of Electronic Science and Technology of China (UESTC) Qingshuihe Campus: No.2006, Xiyuan Ave, West Hi-Tech Zone
         city: Chengdu
         region: Sichuan
         postcode: '611731'
