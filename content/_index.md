@@ -27,9 +27,9 @@ sections:
       title: 'Introduction'
       subtitle: ''
       text: |-
-              Hi there!👋 I am a Ph.D. student at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Previously, I worked as an Algorithm Engineer at [East Hope Group (China)](http://www.easthope.cn/) and as a Research Associate in the [Sensors, Clouds, and Services Laboratory (SCSLab)](http://scslab.net/) at the University of Sydney. My research centers on time-series analysis and multimodal learning.
+              **Hi there!👋 I am a Ph.D. student at University of Electronic Science and Technology of China, supervised by Prof. [Guoqing Wang](https://faculty.uestc.edu.cn/wangguoqing2/zh_CN/index.htm). Previously, I worked as an Algorithm Engineer at East Hope Group (China) and as a Research Associate in the Sensors, Clouds, and Services Laboratory (SCSLab) at the University of Sydney. Many thanks to Prof. [Tongliang Liu](https://tongliang-liu.github.io/) and my Master's supervisor, Prof. [Athman Bouguettaya](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/athman-bouguettaya.html), for their continuous support and guidance. My research centers on time-series analysis and multimodal learning.**
               
-              I am always open to interesting research collaborations and discussions. Feel free to connect with me! 
+              **I am always open to interesting research collaborations and discussions. Feel free to connect with me!**
         
     design:
       columns: '1'
@@ -39,12 +39,15 @@ sections:
       text: |-
     
         ### Education:
-        - **Ph.D. (In Progress)**
-          - 🏛 [**University of Electronic Science and Technology of China**](https://en.uestc.edu.cn/)
-        - **M.I.T. (Research Pathway)**
-          - 🏛 [**The University of Sydney (Australia)**](https://www.sydney.edu.au/)
-        - **B.Eng.**
-          - 🏛 [**Chengdu University of Information Technology (China)**](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
+        **Ph.D. (In Progress)**
+          - [**University of Electronic Science and Technology of China**](https://en.uestc.edu.cn/)
+        **M.I.T. (Research Pathway)**
+          - [**The University of Sydney (Australia)**](https://www.sydney.edu.au/)
+        **B.Eng.**
+          - [**Chengdu University of Information Technology (China)**](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
+
+        ### 🔥News:
+        -
 
         ### Publications:
         {{< spoiler text="📄 [**Towards peer-to-peer sharing of wireless energy services**](https://link.springer.com/chapter/10.1007/978-3-031-26507-5_38)" >}}
