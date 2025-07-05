@@ -44,19 +44,19 @@ sections:
           - **B.Eng.**: [**Chengdu University of Information Technology (China)**](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
 
         ### 🔥News:
-        - 06/2025, Joined the Center for Future Media at UESTC.
+        - **06/2025, Joined the Center for Future Media at UESTC.**
 
-        - 04/2025, Awarded 14th place nationwide in the China Industrial Algorithm Challenge.
+        - **04/2025, Awarded 14th place nationwide in the China Industrial Algorithm Challenge.**
 
-        - 03/2025, Received the General Manager’s Award from East Hope Group.
+        - **03/2025, Received the General Manager’s Award from East Hope Group.**
 
-        - 07/2023, Served as a Session Chair at ICWS 2023 (Core A).
+        - **07/2023, Served as a Session Chair at ICWS 2023 (Core A).**
 
-        - 05/2023, One paper was accepted by PerCom 2023 (Core A*).
+        - **05/2023, One paper was accepted by PerCom 2023 (Core A*).**
 
-        - 11/2022, One paper was accepted by ICSOC 2022 (Core A).
+        - **11/2022, One paper was accepted by ICSOC 2022 (Core A).**
 
-        - 07/2022, Joined SCSLab at USYD.
+        - **07/2022, Joined SCSLab at USYD.**
 
         ### Publications:
         {{< spoiler text="📄 [**Towards peer-to-peer sharing of wireless energy services**](https://link.springer.com/chapter/10.1007/978-3-031-26507-5_38)" >}}
