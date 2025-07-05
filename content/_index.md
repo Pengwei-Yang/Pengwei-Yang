@@ -77,10 +77,10 @@ sections:
         {{< spoiler text="**Towards peer-to-peer sharing of wireless energy services**" >}}
           Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, and Athman Bouguettaya. "[Towards peer-to-peer sharing of wireless energy services](https://link.springer.com/chapter/10.1007/978-3-031-26507-5_38)." *International Conference on Service-Oriented Computing*. Cham: Springer Nature Switzerland, 2022.
         {{< /spoiler >}}
-        {{< spoiler text="**Establishment of Neural Networks Robust to Label Noise" >}}
+        {{< spoiler text="**Establishment of Neural Networks Robust to Label Noise**" >}}
           Pengwei Yang, Chongyangzi Teng, and Jack George Mangos. "[Establishment of Neural Networks Robust to Label Noise](https://arxiv.org/abs/2211.15279v3)." *arXiv preprint arXiv:2211.15279* (2022).
         {{< /spoiler >}}
-        {{< spoiler text="**Containminated Images Recovery by Implementing Non-negative Matrix Factorisation" >}}
+        {{< spoiler text="**Containminated Images Recovery by Implementing Non-negative Matrix Factorisation**" >}}
           Pengwei Yang, Chongyangzi Teng, and Jack George Mangos. "[Contaminated Images Recovery by Implementing Non-negative Matrix Factorisation](https://arxiv.org/abs/2211.04247v4)." *arXiv preprint arXiv:2211.04247* (2022).
         {{< /spoiler >}}
         {{< spoiler text="**Multimodal in Multi-Label Classification: A Report**" >}}
