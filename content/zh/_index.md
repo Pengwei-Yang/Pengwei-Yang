@@ -26,9 +26,9 @@ sections:
     content:
       title: '学术简历'
       text: |-
-              大家好！👋 我是一名人工智能博士研究生，目前就读于[电子科技大学](https://en.uestc.edu.cn/)。曾任[东方希望集团](http://www.easthope.cn/)算法工程师，并在悉尼大学[Sensors, Clouds, and Services Laboratory (SCSLab)](http://scslab.net/)担任过科研助理。研究方向为时间序列和多模态。
+              大家好！👋 我是一名人工智能博士研究生，目前就读于电子科技大学，导师为[王国庆]教授(https://faculty.uestc.edu.cn/wangguoqing2/zh_CN/index.htm)。曾任东方希望集团算法工程师，并曾在悉尼大学担任科研助理。十分感谢[刘同亮](https://tongliang-liu.github.io/)教授与我的硕士导师[Athman Bouguettaya](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/athman-bouguettaya.html)教授在我进入学术界一直以来的支持与指导。
               
-              我热衷于接受一切有趣的研究合作与讨论。欢迎随时联系我！   
+              我的研究方向主要为时间序列与多模态。我热衷于接受一切有趣的研究合作与讨论。欢迎随时联系！   
     design:
       columns: '1'
 
