@@ -39,9 +39,9 @@ sections:
       text: |-
     
         ### Education:
-          - **Ph.D. (In Progress)**: [**University of Electronic Science and Technology of China**](https://en.uestc.edu.cn/)
-          - **M.I.T. (Research Pathway)**: [**The University of Sydney (Australia)**](https://www.sydney.edu.au/)
-          - **B.Eng.**: [**Chengdu University of Information Technology (China)**](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
+          - Ph.D. (In Progress): [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/)
+          - M.I.T. (Research Pathway): [The University of Sydney (Australia)](https://www.sydney.edu.au/)
+          - B.Eng.: [**Chengdu University of Information Technology (China)](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
 
         ### 🔥News:
         - **06/2025, Joined the Center for Future Media at UESTC.**
@@ -52,7 +52,7 @@ sections:
 
         - **07/2023, Served as a Session Chair at ICWS 2023 (Core A).**
 
-        - **05/2023, One paper was accepted by PerCom 2023 (Core A*).**
+        - **05/2023, One paper was accepted by PerCom 2023 (Core A*). **
 
         - **11/2022, One paper was accepted by ICSOC 2022 (Core A).**
 
