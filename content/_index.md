@@ -27,9 +27,9 @@ sections:
       title: ''
       subtitle: ''
       text: |-
-              **Hi there!👋 I am a Ph.D. student at University of Electronic Science and Technology of China, supervised by Prof. [Guoqing Wang](https://faculty.uestc.edu.cn/wangguoqing2/zh_CN/index.htm). Previously, I worked as an Algorithm Engineer at East Hope Group (China) and as a Research Associate in the Sensors, Clouds, and Services Laboratory (SCSLab) at the University of Sydney. Many thanks to Prof. [Tongliang Liu](https://tongliang-liu.github.io/) and my Master's supervisor, Prof. [Athman Bouguettaya](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/athman-bouguettaya.html), for their continuous support and guidance. My research centers on time-series analysis and multimodal learning.**
+              **Hi there!👋 I am a Ph.D. student at University of Electronic Science and Technology of China, supervised by Prof. [Guoqing Wang](https://faculty.uestc.edu.cn/wangguoqing2/zh_CN/index.htm). Previously, I worked as an Algorithm Engineer at East Hope Group (China) and as a Research Associate in the Sensors, Clouds, and Services Laboratory (SCSLab) at the University of Sydney. Many thanks to Prof. [Tongliang Liu](https://tongliang-liu.github.io/) and my Master's supervisor, Prof. [Athman Bouguettaya](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/athman-bouguettaya.html), for their continuous support and guidance. **
               
-              **I am always open to interesting research collaborations and discussions. Feel free to connect with me!**
+              **My research centers on time-series analysis and multimodal learning. I am always open to interesting research collaborations and discussions. Feel free to connect with me!**
         
     design:
       columns: '1'
@@ -37,26 +37,21 @@ sections:
     content:
       title: ' '
       text: |-
-    
-        ### Education:
-          - Ph.D. (In Progress): [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/)
-          - M.I.T. (Research Pathway): [The University of Sydney (Australia)](https://www.sydney.edu.au/)
-          - B.Eng.: [**Chengdu University of Information Technology (China)](https://open.ieee.org/partners/chengdu-university-of-information-technology/)
 
         ### 🔥News:
-        - **06/2025, Joined the Center for Future Media at UESTC.**
+        - 06/2025, Joined the Center for Future Media at UESTC.
 
-        - **04/2025, Awarded 14th place nationwide in the China Industrial Algorithm Challenge.**
+        - 04/2025, Awarded 14th place nationwide in the China Industrial Algorithm Challenge.
 
-        - **03/2025, Received the General Manager’s Award from East Hope Group.**
+        - 03/2025, Received the General Manager’s Award from East Hope Group.**
 
-        - **07/2023, Served as a Session Chair at ICWS 2023 (Core A).**
+        - 07/2023, Served as a Session Chair at ICWS 2023 (Core A).
 
-        - **05/2023, One paper was accepted by PerCom 2023 (Core A*). **
+        - 05/2023, One paper was accepted by PerCom 2023 (Core A\*).
 
-        - **11/2022, One paper was accepted by ICSOC 2022 (Core A).**
+        - 11/2022, One paper was accepted by ICSOC 2022 (Core A).
 
-        - **07/2022, Joined SCSLab at USYD.**
+        - 07/2022, Joined SCSLab at USYD.
 
         ### Publications:
         {{< spoiler text="📄 [**Towards peer-to-peer sharing of wireless energy services**](https://link.springer.com/chapter/10.1007/978-3-031-26507-5_38)" >}}
