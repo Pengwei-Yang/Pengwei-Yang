@@ -59,13 +59,13 @@ sections:
         - **11/2022, One paper was accepted by ICSOC 2022 (Core A).**
 
         ### 🏆 Honors and Awards:
-        - **04/2025, 14th Place Nationwide in the China Industrial Algorithm Challenge**
+        - **04/2025, 14<sup>th</sup> Place Nationwide in the China Industrial Algorithm Challenge**
 
         - **08/2023, HDR-RASF, University of Sydney**
 
         - **02/2023, HDR-RASF, University of Sydney**
 
-        - **05/2019, 1st Prize in the College Student Innovation Cup Competition**
+        - **05/2019, 1<sup>st</sup> Prize in the College Student Innovation Cup Competition**
 
         ### 📝 Publications:
         {{< spoiler text="**Energy Loss Prediction in IoT Energy Services**" >}}
