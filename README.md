@@ -1,5 +1,5 @@
 # Hi there 👋
-I am a Ph.D. student at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before, I worked as an AI algorithm engineer at [East Hope Group (China)](http://www.easthope.cn/) and as a Research Associate in the [Sensors, Clouds, and Services Laboratory (SCSLab)](http://scslab.net/) at the University of Sydney.
+I am a Ph.D. student at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/), supervised by Prof. Guoqing Wang. Before, I worked as an AI algorithm engineer at [East Hope Group (China)](http://www.easthope.cn/) and as a Research Associate in the [Sensors, Clouds, and Services Laboratory (SCSLab)](http://scslab.net/) at the University of Sydney.
 
 - Background: Research Master Student under Prof. Athman Bouguettaya with a strong interdisciplinary background in Computer Science and Electronic Information Science.
 - Research Focus: Deep Learning, Time-series, Multimodal, Trustworthy Machine Learning, Industrial AI algorithms.
