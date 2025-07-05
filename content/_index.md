@@ -37,13 +37,19 @@ sections:
     content:
       title: ' '
       text: |-
-        ### 📖Education:
-        **2025.06 - Present, Ph.D. in Artificial Intelligence, UESTC**
-        **2022.02 - 2023.08, M.I.T. Research Pathway, USYD**
-        **2016.09 - 2020.06, B.Eng. in Electronic Information Science and Technology, CUIT**
+        ### 📖 Education:
+        - **06/2025 - Present, Ph.D. in Artificial Intelligence, UESTC**
+    
+        - **02/2022 - 2023.08, M.I.T. Research Pathway, USYD**
+    
+        - **09/2016 - 2020.06, B.Eng. in Electronic Information Science and Technology, CUIT**
 
+        ### 💼 Work:
+        - **03/2024. - 2025.6, Algorithm Engineer, East Hope Group (China)**
+    
+        - **08/2023 - 2024.02, Research Associate, SCSLab (Australia)**
 
-        ### 🔥News:
+        ### 🔥 News:
         - **07/2023, Served as a Session Chair at ICWS 2023 (Core A).**
 
         - **05/2023, One paper was accepted by ICWS 2023 (Core A).**
@@ -52,20 +58,29 @@ sections:
 
         - **11/2022, One paper was accepted by ICSOC 2022 (Core A).**
 
-        ### 📝Publications:
-        {{< spoiler text="**Towards peer-to-peer sharing of wireless energy services**" >}}
-          Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, and Athman Bouguettaya. "[Towards peer-to-peer sharing of wireless energy services](https://link.springer.com/chapter/10.1007/978-3-031-26507-5_38)." *International Conference on Service-Oriented Computing*. Cham: Springer Nature Switzerland, 2022.
+        ### 🏆 Honors and Awards:
+        - 04/2025, 14th Place Nationwide in the China Industrial Algorithm Challenge
+
+        - 08/2023, HDR-RASF, University of Sydney
+
+        - 02/2023, HDR-RASF, University of Sydney
+
+        - 05/2019, 1st Prize in the College Student Innovation Cup Competition
+
+        ### 📝 Publications:
+        {{< spoiler text="**Energy Loss Prediction in IoT Energy Services**" >}}
+          Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, and Athman Bouguettaya. "[Energy Loss Prediction in IoT Energy Services](https://ieeexplore.ieee.org/document/10248251)." *2023 IEEE International Conference on Web Services (ICWS)*. IEEE, 2023.
         {{< /spoiler >}}
         {{< spoiler text="**Monitoring efficiency of iot wireless charging**" >}}
           Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, and Athman Bouguettaya. "[Monitoring efficiency of iot wireless charging](https://ieeexplore.ieee.org/abstract/document/10150276)." *2023 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)*. IEEE, 2023.
         {{< /spoiler >}}
-        {{< spoiler text="**Energy Loss Prediction in IoT Energy Services**" >}}
-          Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, and Athman Bouguettaya. "[Energy Loss Prediction in IoT Energy Services](https://ieeexplore.ieee.org/document/10248251)." *2023 IEEE International Conference on Web Services (ICWS)*. IEEE, 2023.
+        {{< spoiler text="**Towards peer-to-peer sharing of wireless energy services**" >}}
+          Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, and Athman Bouguettaya. "[Towards peer-to-peer sharing of wireless energy services](https://link.springer.com/chapter/10.1007/978-3-031-26507-5_38)." *International Conference on Service-Oriented Computing*. Cham: Springer Nature Switzerland, 2022.
         {{< /spoiler >}}
-        {{< spoiler text="**Establishment of Neural Networks Robust to Label Noise**" >}}
+        {{< spoiler text="**Establishment of Neural Networks Robust to Label Noise" >}}
           Pengwei Yang, Chongyangzi Teng, and Jack George Mangos. "[Establishment of Neural Networks Robust to Label Noise](https://arxiv.org/abs/2211.15279v3)." *arXiv preprint arXiv:2211.15279* (2022).
         {{< /spoiler >}}
-        {{< spoiler text="**Containminated Images Recovery by Implementing Non-negative Matrix Factorisation**" >}}
+        {{< spoiler text="**Containminated Images Recovery by Implementing Non-negative Matrix Factorisation" >}}
           Pengwei Yang, Chongyangzi Teng, and Jack George Mangos. "[Contaminated Images Recovery by Implementing Non-negative Matrix Factorisation](https://arxiv.org/abs/2211.04247v4)." *arXiv preprint arXiv:2211.04247* (2022).
         {{< /spoiler >}}
         {{< spoiler text="**Multimodal in Multi-Label Classification: A Report**" >}}
