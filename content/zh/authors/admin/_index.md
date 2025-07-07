@@ -14,7 +14,7 @@ organizations:
   url: "https://cfm.uestc.edu.cn/index"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 杨朋卫（Pengwei Yang）是电子科技大学计算机科学与工程学院未来媒体研究中心博士研究生，目前从事时间序列与多模态研究。
+bio: 杨朋卫（Pengwei Yang）是电子科技大学计算机科学与工程学院未来媒体研究中心的博士研究生，目前从事时间序列与多模态研究。
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
