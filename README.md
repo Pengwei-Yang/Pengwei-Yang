@@ -11,9 +11,14 @@ I am a Ph.D. student at [University of Electronic Science and Technology of Chin
 
 I am always open to interesting research collaborations and discussions. Feel free to connect with me!
 
-[💼 LinkedIn](https://www.linkedin.com/in/pengwei-yang/)
-
-[🌍 Website](https://www.pengweiyang.com/)
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.pengweiyang.com/">
+    <img src="https://img.shields.io/badge/Website-8A2BE2?logo=google-chrome&logoColor=white&label=Personal%20Page" alt="Personal Page">
+  </a>
+  <a href="https://scholar.google.com/citations?user=GLs5fDsAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Scholar-4285F4?logo=google-scholar&logoColor=white&label=Google%20Scholar" alt="Google Scholar">
+  </a>
+</div>
 
 ![Languages](https://github.com/Pengwei-Yang/github-stats/blob/master/generated/languages.svg)
 ![Overview](https://github.com/Pengwei-Yang/github-stats/blob/master/generated/overview.svg)
