@@ -154,17 +154,6 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title: ''
-      subtitle: ''
-      text: |-
-        <!-- Elfsight Back to Top | Untitled Back to Top -->
-        <script src="https://static.elfsight.com/platform/platform.js" async></script>
-        <div class="elfsight-app-e968c9bb-94e8-4c74-a253-0978a03ea0ed" data-elfsight-app-lazy></div>
-    design:
-      columns: '1'    
-
 
 
 ---
