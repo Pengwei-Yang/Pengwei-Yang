@@ -9,7 +9,7 @@ I am a Ph.D. student at [University of Electronic Science and Technology of Chin
   - [Towards Peer-to-Peer Sharing of Wireless Energy Services](https://link.springer.com/chapter/10.1007/978-3-031-26507-5_38)
 - Industry Experience: AI algorithm development across various sectors (electrolytic aluminum, polysilicon, industrial silicon, equipment diagnostics) including time series prediction, intelligent detection, optimization algorithms, and fault diagnosis.
 
-I am always open to interesting research collaborations and discussions. Feel free to connect with me!
+I am always open to interesting research collaborations and discussions. Feel free to connect with me! 
 
 <div style="display: flex; gap: 10px;">
   <a href="https://www.pengweiyang.com/">
