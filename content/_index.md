@@ -30,6 +30,8 @@ sections:
               **Hi there!👋 I am a Ph.D. student at University of Electronic Science and Technology of China, supervised by Prof. [Guoqing Wang](https://faculty.uestc.edu.cn/wangguoqing2/zh_CN/index.htm). Previously, I worked as an Algorithm Engineer at East Hope Group (China) and as a Research Associate in the Sensors, Clouds, and Services Laboratory (SCSLab) at the University of Sydney. Many thanks to Prof. [Tongliang Liu](https://tongliang-liu.github.io/) and my Master's supervisor, Prof. [Athman Bouguettaya](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/athman-bouguettaya.html), for their continuous support and guidance.**
               
               **My research centers on time-series analysis and multimodal learning. I am always open to interesting research collaborations and discussions. Feel free to connect with me!**
+
+              **I'm a reviewer of CAAI Transactions on Intelligence Technology, etc. Served as session chair at the 2023 IEEE World Congress on SERVICES.**
         
     design:
       columns: '1'
