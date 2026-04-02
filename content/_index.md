@@ -52,6 +52,8 @@ sections:
         - **08/2023 - 2024.02, Research Associate, SCSLab (Australia)**
 
         ### 🔥 News:
+        - **04/2026, Our new [Low Altitude Multimodal Dataset](https://jennyzhang0810.github.io/LowAltitude-Multimodal-Dataset/) is now available.**
+
         - **07/2023, Served as a Session Chair at ICWS 2023 (Core A).**
 
         - **05/2023, One paper was accepted by ICWS 2023 (Core A).**
